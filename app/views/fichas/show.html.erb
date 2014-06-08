@@ -9,22 +9,19 @@
 <p >ID: <%=@ficha.id.to_i%></p>
 <p>Rut: <%=  @ficha.rut %></p>
  <p >Tipo: <%= 
-if @cargo.nil? ;  'Sin Información';
-else @cargo.nombre;
-end  %></p>
+ @cargo.nombre;
+%></p>
 
 <p> Fecha de Nacimiento: <%=  @ficha.fechanacimiento.to_formatted_s(:rfc822)      %></p>
 <p >Actividad: <%= 
-if @actividad.nil? ;  'Sin Información';
-else @actividad.nombre;
-end  %></p>
+ @actividad.nombre;
+%></p>
 
 
 
 <p >Lugar de estudio/trabajo: <%= 
-if @local.nil? ;  'Sin Información';
-else @local.nombre;
-end  %></p>
+ @local.nombre;
+%></p>
 
 <p >Total Horas: <%=number_to_currency(   @asistencias.sum(:horas), :unit => "", :delimiter => ".", :precision=> 0)%></p>
 

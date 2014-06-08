@@ -2743,3 +2743,191 @@ Started GET "/" for 127.0.0.1 at 2014-06-08 15:55:21 -0400
 Processing by SessionsController#new as HTML
   Rendered sessions/new.html.erb within layouts/application (1.0ms)
 Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-08 17:04:35 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (25.0ms)
+Compiled jquery.Rut.js  (0ms)  (pid 13996)
+Compiled jquery.Rut.min.js  (0ms)  (pid 13996)
+Completed 200 OK in 194ms (Views: 83.0ms | ActiveRecord: 10.0ms)
+Started GET "/pagos/1" for 127.0.0.1 at 2014-06-08 17:04:49 -0400
+Processing by PagosController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered pagos/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 18ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-08 17:04:51 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 15ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+Started GET "/pagos/new" for 127.0.0.1 at 2014-06-08 17:04:52 -0400
+Processing by PagosController#new as HTML
+  Rendered pagos/new.html.erb within layouts/application (301.0ms)
+Completed 200 OK in 367ms (Views: 308.0ms | ActiveRecord: 0.0ms)
+Started POST "/pagos" for 127.0.0.1 at 2014-06-08 17:04:58 -0400
+Processing by PagosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "pago"=>{"ficha_id"=>"1", "fecha(3i)"=>"8", "fecha(2i)"=>"6", "fecha(1i)"=>"2014", "valor"=>"10000", "detalle"=>""}, "commit"=>"Agregar Nuevo Pago"}
+  Rendered pagos/new.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (undefined method `model_name' for NilClass:Class):
+    2: 
+    3: <div id="titulo", class="colorCeleste">Nuevo Pago</div>
+    4: <div id="texto2">
+    5: <%= simple_form_for @pago, :url => pagos_path , :method => 'post' do |f| %>
+    6: 
+    7: 
+    8: <% if @pago.errors.any? %>
+  app/views/pagos/new.html.erb:5:in `_app_views_pagos_new_html_erb___94118754_45356140'
+  app/controllers/pagos_controller.rb:72:in `create'
+
+
+Started GET "/pagos" for 127.0.0.1 at 2014-06-08 17:05:00 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 11ms (Views: 9.0ms | ActiveRecord: 1.0ms)
+Started GET "/pagos/new" for 127.0.0.1 at 2014-06-08 17:05:13 -0400
+Processing by PagosController#new as HTML
+  Rendered pagos/new.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 24ms (Views: 22.0ms | ActiveRecord: 1.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-08 17:05:18 -0400
+Processing by TiposController#index as HTML
+  Rendered tipos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 11ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+Started GET "/tipos/new" for 127.0.0.1 at 2014-06-08 17:05:19 -0400
+Processing by TiposController#new as HTML
+  Rendered tipos/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 22ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+Started POST "/tipos" for 127.0.0.1 at 2014-06-08 17:05:21 -0400
+Processing by TiposController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "tipo"=>{"nombre"=>"Blanco", "descripcion"=>""}, "commit"=>"Agregar Tipo Pago"}
+Redirected to http://localhost:3000/tipos
+Completed 302 Found in 223ms (ActiveRecord: 78.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-08 17:05:21 -0400
+Processing by TiposController#index as HTML
+  Rendered tipos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-08 17:05:23 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-08 17:05:24 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 17ms (Views: 13.0ms | ActiveRecord: 2.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-08 17:05:25 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 11ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+Started GET "/pagos/new" for 127.0.0.1 at 2014-06-08 17:05:25 -0400
+Processing by PagosController#new as HTML
+  Rendered pagos/new.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 76ms (Views: 75.0ms | ActiveRecord: 1.0ms)
+Started POST "/pagos" for 127.0.0.1 at 2014-06-08 17:05:30 -0400
+Processing by PagosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "pago"=>{"ficha_id"=>"1", "fecha(3i)"=>"8", "fecha(2i)"=>"6", "fecha(1i)"=>"2014", "valor"=>"1000", "tipo_id"=>"1", "detalle"=>""}, "commit"=>"Agregar Nuevo Pago"}
+Redirected to http://localhost:3000/pagos/new
+Completed 302 Found in 65ms (ActiveRecord: 60.0ms)
+Started GET "/pagos/new" for 127.0.0.1 at 2014-06-08 17:05:30 -0400
+Processing by PagosController#new as HTML
+  Rendered pagos/new.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 23ms (Views: 20.0ms | ActiveRecord: 2.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-08 17:05:32 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 1.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-08 17:05:33 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 20ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-08 17:05:41 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-08 17:05:42 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 20ms (Views: 13.0ms | ActiveRecord: 2.0ms)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-08 17:36:03 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 212ms (Views: 118.0ms | ActiveRecord: 24.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:04 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-08 17:36:06 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (108.0ms)
+Completed 200 OK in 122ms (Views: 116.0ms | ActiveRecord: 3.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:06 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-08 17:36:07 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 33ms (Views: 24.0ms | ActiveRecord: 1.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:07 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-08 17:36:07 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 54ms (Views: 51.0ms | ActiveRecord: 0.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:08 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-08 17:36:09 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 26ms (Views: 23.0ms | ActiveRecord: 2.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:09 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-08 17:36:10 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 43ms (Views: 16.0ms | ActiveRecord: 8.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:10 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-08 17:36:16 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 12ms (Views: 9.0ms | ActiveRecord: 1.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:17 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started GET "/asistencias/new" for 127.0.0.1 at 2014-06-08 17:36:18 -0400
+Processing by AsistenciasController#new as HTML
+  Rendered asistencias/new.html.erb within layouts/application (317.0ms)
+Completed 200 OK in 414ms (Views: 350.0ms | ActiveRecord: 1.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:18 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started POST "/asistencias" for 127.0.0.1 at 2014-06-08 17:36:20 -0400
+Processing by AsistenciasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "asistencia"=>{"ficha_id"=>"1", "fecha(3i)"=>"8", "fecha(2i)"=>"6", "fecha(1i)"=>"2014", "horas"=>"2"}, "commit"=>"Agregar Nuevo Asistencia"}
+Redirected to http://localhost:3000/asistencias/new
+Completed 302 Found in 84ms (ActiveRecord: 74.0ms)
+Started GET "/asistencias/new" for 127.0.0.1 at 2014-06-08 17:36:20 -0400
+Processing by AsistenciasController#new as HTML
+  Rendered asistencias/new.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 20ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:20 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-08 17:36:22 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 15ms (Views: 13.0ms | ActiveRecord: 1.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:22 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-08 17:36:23 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 20ms (Views: 11.0ms | ActiveRecord: 3.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:36:23 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-08 17:37:11 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (31.0ms)
+Completed 200 OK in 174ms (Views: 61.0ms | ActiveRecord: 15.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-08 17:37:11 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 304 Not Modified (0ms)

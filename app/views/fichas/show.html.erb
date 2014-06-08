@@ -39,54 +39,6 @@
 
 
 
-  <table id="tableConten">
-
-
-
-
-  <td ><h1>ASISTENCIA PARCIAL </h1>
-
-
- <%= link_to 'VER ASISTENCIA COMPLETA ', asistencia_path(@ficha)%>
-
-
-
-<table id="tableConten">   
-  
-  <th id = "botonCeleste" ><%=  "Mes Año" %></th>  
-  <th id = "botonCeleste" ><%=  "Horas Mensuales" %></th>  
-  
-  
-  <% for asistencia in @asistenciaParcial %>  
-  <tr >  
-  <td><%= Time.zone.parse(asistencia.ordered_fecha).strftime("%Y" " %B") %></td>      
-  <td><%= number_to_currency(asistencia.total_horas, :unit => "", :delimiter => ".", :precision=> 0) %></td>    
-
-  </tr>  
-  <% end %>  
-</table> 
-</table>
-
-
-
-  <table id="tableConten"><td ><h1>PAGOS PARCIALES</h1>
-<table id="tableConten">   
-   <%= link_to 'VER TODOS LOS PAGOS ', pago_path(@ficha)%>
-  <th id = "botonCeleste" ><%=  "Mes Año" %></th>  
-  <th id = "botonCeleste" ><%=  "Valor" %></th>  
-  
-  
-  <% for pago in @pagoParcial %>  
-  <tr >  
-  <td><%= Time.zone.parse(pago.ordered_fecha).strftime("%Y" " %B") %></td>      
-  <td><%= number_to_currency(pago.total_horas, :unit => "$", :delimiter => ".", :precision=> 0) %></td>    
-
-  </tr>  
-  <% end %>  
-</table> 
-
-</td></table>
-
 </div>
 
 

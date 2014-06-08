@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ficha_id: 1
+  fecha: 2014-06-02
+  evento_id: 1
+  detalle: MyText
+
+two:
+  ficha_id: 1
+  fecha: 2014-06-02
+  evento_id: 1
+  detalle: MyText

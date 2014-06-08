@@ -1,0 +1,18 @@
+<div id="fullConten">
+
+<div id="titulo", class="colorCeleste">Editar Ocupación</div>
+<div id="texto2">
+<%= simple_form_for @actividad do |f| %>
+
+	<%= f.input :nombre,:placeholder => 'Ingrese el nombre', input_html: { maxlength: 30}%>
+
+	<%= f.input :descripcion ,:placeholder => 'Ingrese un detalle para la ocupación.', input_html: { maxlength: 150, pattern:"[A-Z a-z]{2,25}" }%>   
+
+
+<%= f.submit "Guardar Cambios" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+<%= link_to "Volver", actividads_path ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+
+<% end %>
+</div>
+</div>

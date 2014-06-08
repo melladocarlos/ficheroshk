@@ -1,0 +1,15 @@
+
+<div id="fullConten">
+<div id="titulo", class="colorCeleste"> Lugar de Estudio/Trabajo: <%= @local.nombre%></div>
+
+<div id="texto2">
+<p >Ubicación : <%= @local.ubicacion%></p>
+<p >fono : <%= @local.fono%></p>
+
+
+<%= link_to "Editar", edit_local_path(@local)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+<%= link_to "Volver", locals_path ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+
+</div>
+</div>

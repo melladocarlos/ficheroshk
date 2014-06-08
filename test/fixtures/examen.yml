@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ficha_id: 1
+  fecha: 2014-06-02
+  detalle: MyText
+  pagado: MyString
+
+two:
+  ficha_id: 1
+  fecha: 2014-06-02
+  detalle: MyText
+  pagado: MyString

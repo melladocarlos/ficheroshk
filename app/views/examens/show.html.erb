@@ -1,0 +1,16 @@
+
+<div id="fullConten">
+<div id="titulo", class="colorCeleste"> Examen de :<%= @ficha.nombre %></div>
+
+<div id="texto2">
+<p >Fecha : <%= @examen.fecha%></p>
+<p >Pagado : <%= @examen.pagado%></p>
+<p >Descripcion : <%= @examen.detalle%></p>
+
+
+<%= link_to "Editar", edit_examen_path(@examen)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+<%= link_to "Volver", examens_path ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+
+</div>
+</div>

@@ -1,0 +1,17 @@
+<div id="fullConten">
+
+<div id="titulo", class="colorCeleste">Nuevo Lugar de Entrenamiento</div>
+<div id="texto2">
+
+<%= simple_form_for @lugar, :url => lugars_path , :method => 'post' do |f| %>
+
+	<%= f.input :nombre,:placeholder => 'Ingrese el nombre', input_html: { maxlength: 30, pattern:"[A-Z a-z]{2,25}" }%>
+
+	<%= f.input :ubicacion,:placeholder => 'Ingrese Detalles Como Ubicación', input_html: { maxlength: 30, pattern:"[A-Z a-z]{2,25}" }%>    
+
+
+
+<%= f.submit "Agregar Nuevo Lugar" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+<%= link_to "Cancelar", lugars_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %>
+<% end %>
+</div></div>

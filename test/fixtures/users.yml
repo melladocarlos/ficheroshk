@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  email: MyString
+  password: MyString
+  password_confirmation: MyString
+  password_digest: MyString
+  password_hash: MyString
+  password_salt: MyString
+  ficha_id: 1
+  cargo_id: 1
+
+two:
+  email: MyString
+  password: MyString
+  password_confirmation: MyString
+  password_digest: MyString
+  password_hash: MyString
+  password_salt: MyString
+  ficha_id: 1
+  cargo_id: 1

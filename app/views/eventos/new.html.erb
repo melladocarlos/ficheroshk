@@ -1,0 +1,23 @@
+
+
+<div id="fullConten">
+
+<div id="titulo", class="colorCeleste">Nuevo Evento</div>
+<div id="texto2">
+
+<%= simple_form_for @evento, :url => eventos_path , :method => 'post' do |f| %>
+
+	<%= f.input :nombre,:placeholder => 'Ingrese el nombre', input_html: { maxlength: 30, pattern:"[A-Z a-z]{2,25}" }%>
+
+	<%= f.input :fecha, as: :date, start_year: Date.today.year,:use_month_numbers => true, start_year: Date.today.year-5, end_year: Date.today.year+5, order: [:day,:month, :year]%>
+	<%= f.input :descripcion,:placeholder => 'Ingrese el detalle para el evento', input_html: { maxlength: 150, pattern:"[A-Z a-z]{2,25}" }%>   
+
+
+    
+</div>
+
+<%= f.submit "Agregar Nuevo Evento" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+<%= link_to "Cancelar", eventos_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %>
+<% end %>
+
+</div>

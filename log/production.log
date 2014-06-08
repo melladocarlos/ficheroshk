@@ -1,0 +1,2745 @@
+Connecting to database specified by database.yml
+Compiled application.js  (1ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/actividads.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled actividads.css  (17ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled asistencias.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/cargos.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled cargos.css  (2ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/eventos.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled eventos.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/examens.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled examens.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/fichas.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled fichas.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/locals.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled locals.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/lugars.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled lugars.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/pagos.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled pagos.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/participacions.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled participacions.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/posts.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled posts.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/sessions.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled sessions.css  (3ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/tipos.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled tipos.css  (1ms)  (pid 3076)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/users.css.scssc: can't dump anonymous class #<Class:0x00000004ffacb8>
+
+Compiled users.css  (3ms)  (pid 3076)
+Compiled application.css  (256ms)  (pid 3076)
+Compiled application.js  (0ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/actividads.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled actividads.css  (5ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled asistencias.css  (3ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/cargos.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled cargos.css  (2ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/eventos.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled eventos.css  (2ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/examens.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled examens.css  (2ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/fichas.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled fichas.css  (3ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/locals.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled locals.css  (2ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/lugars.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled lugars.css  (3ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/pagos.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled pagos.css  (3ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/participacions.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled participacions.css  (2ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/posts.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled posts.css  (1ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/sessions.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled sessions.css  (1ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/tipos.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled tipos.css  (3ms)  (pid 376)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/users.css.scssc: can't dump anonymous class #<Class:0x00000004fbc4e0>
+
+Compiled users.css  (2ms)  (pid 376)
+Compiled application.css  (203ms)  (pid 376)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:29:52 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (3.0ms)
+Completed 404 Not Found in 115ms (Views: 78.0ms | ActiveRecord: 8.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:29:57 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:30:49 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (1.0ms)
+Completed 404 Not Found in 5ms (Views: 3.0ms | ActiveRecord: 1.0ms)
+Started GET "/login" for 127.0.0.1 at 2014-06-02 20:30:59 -0400
+
+ActionController::RoutingError (No route matches [GET] "/login"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/log_in" for 127.0.0.1 at 2014-06-02 20:31:06 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 2ms (Views: 1.0ms | ActiveRecord: 1.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-02 20:31:13 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 17ms
+
+ActionView::Template::Error (jquery.Rut.js isn't precompiled):
+    6:   <title>Registros y Pagos</title>
+    7:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    8:   <%= javascript_include_tag "application" %>
+    9:   <%= javascript_include_tag "jquery.Rut" %>
+    10:   <%= javascript_include_tag "jquery.Rut.min" %>
+    11:   <%= csrf_meta_tags %>
+    12: 
+  app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb___66235721_42278040'
+
+
+Connecting to database specified by database.yml
+Compiled application.js  (0ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/actividads.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled actividads.css  (6ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled asistencias.css  (1ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/cargos.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled cargos.css  (2ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/eventos.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled eventos.css  (2ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/examens.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled examens.css  (3ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/fichas.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled fichas.css  (1ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/locals.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled locals.css  (2ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/lugars.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled lugars.css  (1ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/pagos.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled pagos.css  (2ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/participacions.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled participacions.css  (1ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/posts.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled posts.css  (1ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/sessions.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled sessions.css  (2ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/tipos.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled tipos.css  (2ms)  (pid 6396)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/users.css.scssc: can't dump anonymous class #<Class:0x00000004dcac68>
+
+Compiled users.css  (3ms)  (pid 6396)
+Compiled application.css  (207ms)  (pid 6396)
+Compiled application.js  (0ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/actividads.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled actividads.css  (4ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled asistencias.css  (1ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/cargos.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled cargos.css  (3ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/eventos.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled eventos.css  (2ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/examens.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled examens.css  (2ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/fichas.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled fichas.css  (2ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/locals.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled locals.css  (2ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/lugars.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled lugars.css  (2ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/pagos.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled pagos.css  (1ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/participacions.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled participacions.css  (2ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/posts.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled posts.css  (3ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/sessions.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled sessions.css  (2ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/tipos.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled tipos.css  (2ms)  (pid 6424)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/users.css.scssc: can't dump anonymous class #<Class:0x00000004e20758>
+
+Compiled users.css  (1ms)  (pid 6424)
+Compiled application.css  (212ms)  (pid 6424)
+Connecting to database specified by database.yml
+Started GET "/locals" for 127.0.0.1 at 2014-06-02 20:36:36 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 37ms
+
+ActionView::Template::Error (jquery.Rut.js isn't precompiled):
+    6:   <title>Registros y Pagos</title>
+    7:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    8:   <%= javascript_include_tag "application" %>
+    9:   <%= javascript_include_tag "jquery.Rut" %>
+    10:   <%= javascript_include_tag "jquery.Rut.min" %>
+    11:   <%= csrf_meta_tags %>
+    12: 
+  app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb__2119556180_57456520'
+
+
+Connecting to database specified by database.yml
+Started GET "/locals" for 127.0.0.1 at 2014-06-02 20:40:51 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (5.0ms)
+Compiled jquery.Rut.js  (0ms)  (pid 3260)
+Compiled jquery.Rut.min.js  (0ms)  (pid 3260)
+  Rendered public/404.html (1.0ms)
+Completed 404 Not Found in 3205ms (Views: 4.0ms | ActiveRecord: 5.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:41:22 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 8ms (Views: 3.0ms | ActiveRecord: 1.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:41:24 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Compiled application.js  (0ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/actividads.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled actividads.css  (7ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled asistencias.css  (3ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/cargos.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled cargos.css  (3ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/eventos.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled eventos.css  (2ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/examens.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled examens.css  (5ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/fichas.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled fichas.css  (2ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/locals.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled locals.css  (2ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/lugars.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled lugars.css  (6ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/pagos.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled pagos.css  (2ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/participacions.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled participacions.css  (2ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/posts.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled posts.css  (3ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/sessions.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled sessions.css  (3ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/tipos.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled tipos.css  (3ms)  (pid 6508)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/users.css.scssc: can't dump anonymous class #<Class:0x00000004e72e40>
+
+Compiled users.css  (1ms)  (pid 6508)
+Compiled application.css  (413ms)  (pid 6508)
+Compiled application.js  (1ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/actividads.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled actividads.css  (4ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled asistencias.css  (3ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/cargos.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled cargos.css  (2ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/eventos.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled eventos.css  (2ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/examens.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled examens.css  (1ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/fichas.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled fichas.css  (1ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/locals.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled locals.css  (3ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/lugars.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled lugars.css  (2ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/pagos.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled pagos.css  (3ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/participacions.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled participacions.css  (2ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/posts.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled posts.css  (3ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/sessions.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled sessions.css  (1ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/tipos.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled tipos.css  (3ms)  (pid 3088)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/users.css.scssc: can't dump anonymous class #<Class:0x00000004e1c658>
+
+Compiled users.css  (1ms)  (pid 3088)
+Compiled application.css  (204ms)  (pid 3088)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:42:50 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (3.0ms)
+Completed 404 Not Found in 48ms (Views: 16.0ms | ActiveRecord: 8.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:42:52 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 1.0ms | ActiveRecord: 1.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:43:26 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (4.0ms)
+Compiled jquery.Rut.js  (1ms)  (pid 6712)
+Compiled jquery.Rut.min.js  (0ms)  (pid 6712)
+Completed 200 OK in 3497ms (Views: 3497.2ms | ActiveRecord: 0.0ms)
+Started GET "/assets/application-d79cdc81456895d33bd4d59e5ffeef66.css" for 127.0.0.1 at 2014-06-02 20:43:30 -0400
+Served asset /application-d79cdc81456895d33bd4d59e5ffeef66.css - 200 OK (43ms)
+Started GET "/assets/application-1b13569e9620782f423d4cd3ce931750.js" for 127.0.0.1 at 2014-06-02 20:43:30 -0400
+Served asset /application-1b13569e9620782f423d4cd3ce931750.js - 200 OK (10ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-02 20:43:30 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 200 OK (0ms)
+Started GET "/assets/jquery.Rut.min-6b5c2bb77ff0974b3e2f36e3d600448b.js" for 127.0.0.1 at 2014-06-02 20:43:30 -0400
+Served asset /jquery.Rut.min-6b5c2bb77ff0974b3e2f36e3d600448b.js - 200 OK (0ms)
+Started GET "/favicon.ico" for 127.0.0.1 at 2014-06-02 20:43:30 -0400
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2014-06-02 20:43:30 -0400
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:43:52 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-02 20:44:12 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EanzdECUA3KM5OPmSskYkgmQX/PKKvAiI09kjJ1x5q0=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 56ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-02 20:44:20 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (154.0ms)
+Completed 200 OK in 161ms (Views: 158.0ms | ActiveRecord: 3.0ms)
+Connecting to database specified by database.yml
+Started GET "/log_in" for 127.0.0.1 at 2014-06-02 20:45:36 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 69ms
+
+ActionView::Template::Error (jquery.Rut.js isn't precompiled):
+    6:   <title>Registros y Pagos</title>
+    7:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    8:   <%= javascript_include_tag "application" %>
+    9:   <%= javascript_include_tag "jquery.Rut" %>
+    10:   <%= javascript_include_tag "jquery.Rut.min" %>
+    11:   <%= csrf_meta_tags %>
+    12: 
+  app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb__1513325004_39214280'
+
+
+Started GET "/log_in" for 127.0.0.1 at 2014-06-02 20:45:38 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (jquery.Rut.js isn't precompiled):
+    6:   <title>Registros y Pagos</title>
+    7:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    8:   <%= javascript_include_tag "application" %>
+    9:   <%= javascript_include_tag "jquery.Rut" %>
+    10:   <%= javascript_include_tag "jquery.Rut.min" %>
+    11:   <%= csrf_meta_tags %>
+    12: 
+  app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb__1513325004_39214280'
+
+
+Started GET "/log_in" for 127.0.0.1 at 2014-06-02 20:45:39 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (jquery.Rut.js isn't precompiled):
+    6:   <title>Registros y Pagos</title>
+    7:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    8:   <%= javascript_include_tag "application" %>
+    9:   <%= javascript_include_tag "jquery.Rut" %>
+    10:   <%= javascript_include_tag "jquery.Rut.min" %>
+    11:   <%= csrf_meta_tags %>
+    12: 
+  app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb__1513325004_39214280'
+
+
+Connecting to database specified by database.yml
+Started GET "/log_in" for 127.0.0.1 at 2014-06-02 20:46:00 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 41ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-02 20:46:02 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (97.0ms)
+Completed 200 OK in 183ms (Views: 101.0ms | ActiveRecord: 7.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-02 20:48:05 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+Started GET "/locals/new" for 127.0.0.1 at 2014-06-02 20:48:09 -0400
+Processing by LocalsController#new as HTML
+  Rendered locals/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 22ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+Started POST "/locals" for 127.0.0.1 at 2014-06-02 20:48:29 -0400
+Processing by LocalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EanzdECUA3KM5OPmSskYkgmQX/PKKvAiI09kjJ1x5q0=", "local"=>{"nombre"=>"Universidad Del Bio Bio", "ubicacion"=>"Collao", "fono"=>""}, "commit"=>"Agregar Nuevo Local"}
+Redirected to http://localhost:3000/locals
+Completed 302 Found in 104ms (ActiveRecord: 73.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-02 20:48:29 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-02 20:48:47 -0400
+Processing by TiposController#index as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-02 20:48:47 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-02 20:49:03 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 16ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos/new" for 127.0.0.1 at 2014-06-02 20:49:04 -0400
+Processing by CargosController#new as HTML
+  Rendered cargos/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 32ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+Started POST "/cargos" for 127.0.0.1 at 2014-06-02 20:49:10 -0400
+Processing by CargosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EanzdECUA3KM5OPmSskYkgmQX/PKKvAiI09kjJ1x5q0=", "cargo"=>{"nombre"=>"Administrador", "descripcion"=>""}, "commit"=>"Agregar Cargo"}
+Redirected to http://localhost:3000/cargos
+Completed 302 Found in 172ms (ActiveRecord: 166.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-02 20:49:10 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-02 20:49:14 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 30ms (Views: 28.0ms | ActiveRecord: 1.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-02 20:49:27 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+Started GET "/actividads/new" for 127.0.0.1 at 2014-06-02 20:49:28 -0400
+Processing by ActividadsController#new as HTML
+  Rendered actividads/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 33ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+Started POST "/actividads" for 127.0.0.1 at 2014-06-02 20:49:33 -0400
+Processing by ActividadsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EanzdECUA3KM5OPmSskYkgmQX/PKKvAiI09kjJ1x5q0=", "actividad"=>{"nombre"=>"Estudiante", "descripcion"=>""}, "commit"=>"Agregar Nueva Ocupación"}
+Redirected to http://localhost:3000/actividads
+Completed 302 Found in 156ms (ActiveRecord: 148.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-02 20:49:34 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-02 20:49:36 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 27ms (Views: 24.0ms | ActiveRecord: 1.0ms)
+Started POST "/fichas" for 127.0.0.1 at 2014-06-02 20:51:40 -0400
+Processing by FichasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EanzdECUA3KM5OPmSskYkgmQX/PKKvAiI09kjJ1x5q0=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "cargo_id"=>"1", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1"}, "commit"=>"Agregar Nueva Ficha"}
+Binary data inserted for `string` type on column `password_hash`
+Binary data inserted for `string` type on column `password_salt`
+Redirected to http://localhost:3000/fichas/new
+Completed 302 Found in 174ms (ActiveRecord: 82.0ms)
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-02 20:51:40 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 26ms (Views: 24.0ms | ActiveRecord: 2.0ms)
+Started GET "/log_in" for 127.0.0.1 at 2014-06-02 20:51:43 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-02 20:51:56 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EanzdECUA3KM5OPmSskYkgmQX/PKKvAiI09kjJ1x5q0=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 104ms (ActiveRecord: 1.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-02 20:51:57 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+Started GET "/photos/original/missing.png" for 127.0.0.1 at 2014-06-02 20:51:57 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photos/original/missing.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/assets/tableft.gif" for 127.0.0.1 at 2014-06-02 20:51:57 -0400
+Served asset /tableft.gif - 200 OK (4ms)
+Started GET "/assets/tabright.gif" for 127.0.0.1 at 2014-06-02 20:51:57 -0400
+Served asset /tabright.gif - 200 OK (4ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-02 20:52:03 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 13ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+Started GET "/photos/original/missing.png" for 127.0.0.1 at 2014-06-02 20:52:03 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photos/original/missing.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-02 20:52:28 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/edit.html.erb within layouts/application (27.0ms)
+Completed 200 OK in 35ms (Views: 32.0ms | ActiveRecord: 2.0ms)
+Started PUT "/fichas/1" for 127.0.0.1 at 2014-06-02 20:52:40 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EanzdECUA3KM5OPmSskYkgmQX/PKKvAiI09kjJ1x5q0=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "cargo_id"=>"1", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x00000004b88fe0 @original_filename="6746-4[1].jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"6746-4[1].jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140602-6152-n7vrm6>>}, "commit"=>"Guardar Cambios", "id"=>"1"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 181ms (ActiveRecord: 85.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-02 20:52:40 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-02 20:52:40 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-02 20:52:45 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-02 20:53:14 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg" for 127.0.0.1 at 2014-06-02 20:53:39 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-03 14:16:31 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (49.0ms)
+Completed 200 OK in 224ms (Views: 174.0ms | ActiveRecord: 20.0ms)
+Started GET "/assets/tableft.gif" for 127.0.0.1 at 2014-06-03 14:16:32 -0400
+Served asset /tableft.gif - 200 OK (30ms)
+Started GET "/assets/tabright.gif" for 127.0.0.1 at 2014-06-03 14:16:32 -0400
+Served asset /tabright.gif - 200 OK (21ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-03 14:16:39 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 25ms (Views: 20.0ms | ActiveRecord: 2.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-03 14:16:40 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 47ms (Views: 43.0ms | ActiveRecord: 1.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-03 14:16:40 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 37ms (Views: 28.0ms | ActiveRecord: 1.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-03 14:16:41 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 33ms (Views: 22.0ms | ActiveRecord: 3.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-03 14:16:41 -0400
+Processing by TiposController#index as HTML
+  Rendered tipos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 20ms (Views: 17.0ms | ActiveRecord: 1.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-03 14:16:42 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (50.0ms)
+Completed 200 OK in 57ms (Views: 54.0ms | ActiveRecord: 1.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:16:44 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (31.0ms)
+Completed 200 OK in 67ms (Views: 67.0ms | ActiveRecord: 0.0ms)
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-03 14:16:44 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:16:45 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (66.0ms)
+Completed 200 OK in 116ms (Views: 85.0ms | ActiveRecord: 6.0ms)
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-03 14:16:45 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-03 14:17:58 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 13ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-03 14:17:59 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 12ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-03 14:18:00 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-03 14:18:01 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-03 14:18:02 -0400
+Processing by TiposController#index as HTML
+  Rendered tipos/index.html.erb within layouts/application (49.0ms)
+Completed 200 OK in 57ms (Views: 54.0ms | ActiveRecord: 1.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-03 14:18:03 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started GET "/actividads/1" for 127.0.0.1 at 2014-06-03 14:18:04 -0400
+Processing by ActividadsController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered actividads/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 13ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-03 14:18:05 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+Started GET "/cargos/1" for 127.0.0.1 at 2014-06-03 14:18:06 -0400
+Processing by CargosController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered cargos/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-03 14:18:07 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-03 14:18:09 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:18:10 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-03 14:18:10 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-03 14:18:12 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:18:20 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 21ms (Views: 11.0ms | ActiveRecord: 6.0ms)
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-03 14:18:20 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-03 14:21:20 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Connecting to database specified by database.yml
+Started POST "/sessions" for 127.0.0.1 at 2014-06-03 14:30:25 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 149ms (ActiveRecord: 5.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:30:25 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (12.0ms)
+Compiled jquery.Rut.js  (1ms)  (pid 8308)
+Compiled jquery.Rut.min.js  (0ms)  (pid 8308)
+Completed 200 OK in 4429ms (Views: 4376.2ms | ActiveRecord: 52.0ms)
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-03 14:30:30 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:30:32 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 58ms (Views: 25.0ms | ActiveRecord: 5.0ms)
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401756760" for 127.0.0.1 at 2014-06-03 14:30:33 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-03 14:30:35 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/edit.html.erb within layouts/application (260.0ms)
+Completed 200 OK in 281ms (Views: 277.0ms | ActiveRecord: 1.0ms)
+Started PUT "/fichas/1" for 127.0.0.1 at 2014-06-03 14:30:45 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "cargo_id"=>"1", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x00000004c15a58 @original_filename="6746-4[1].jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"6746-4[1].jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140603-8308-12byr28>>}, "commit"=>"Guardar Cambios", "id"=>"1"}
+[paperclip] deleting C:/rails_code/ficheros/public/system/fichas/photos/000/000/001/original/6746-4_1_.jpg
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 386ms (ActiveRecord: 184.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:30:46 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 1.0ms)
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401820246" for 127.0.0.1 at 2014-06-03 14:30:46 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg?1401820246" for 127.0.0.1 at 2014-06-03 14:31:17 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg" for 127.0.0.1 at 2014-06-03 14:31:28 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg" for 127.0.0.1 at 2014-06-03 14:31:31 -0400
+
+ActionController::RoutingError (No route matches [GET] "/system/fichas/photos/000/000/001/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:44:13 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (31.0ms)
+Completed 200 OK in 125ms (Views: 113.0ms | ActiveRecord: 11.0ms)
+Started GET "/public/photo_attachment/1/original/6746-4_1_.jpg?1401820246" for 127.0.0.1 at 2014-06-03 14:44:13 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:44:14 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 63ms (Views: 26.0ms | ActiveRecord: 5.0ms)
+Started GET "/public/photo_attachment/1/original/6746-4_1_.jpg?1401820246" for 127.0.0.1 at 2014-06-03 14:44:15 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-03 14:44:16 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/edit.html.erb within layouts/application (136.0ms)
+Completed 200 OK in 144ms (Views: 140.0ms | ActiveRecord: 2.0ms)
+Started PUT "/fichas/1" for 127.0.0.1 at 2014-06-03 14:44:23 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "cargo_id"=>"1", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x00000004bbe0c8 @original_filename="6746-4[1].jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"6746-4[1].jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140603-8116-1iwpkv6>>}, "commit"=>"Guardar Cambios", "id"=>"1"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 174ms (ActiveRecord: 77.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:44:23 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 13ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+Started GET "/public/photo_attachment/1/original/6746-4_1_.jpg?1401821063" for 127.0.0.1 at 2014-06-03 14:44:23 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:44:25 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 20ms (Views: 9.0ms | ActiveRecord: 5.0ms)
+Started GET "/public/photo_attachment/1/original/6746-4_1_.jpg?1401821063" for 127.0.0.1 at 2014-06-03 14:44:25 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/public/photo_attachment/1/original/6746-4_1_.jpg?1401821063" for 127.0.0.1 at 2014-06-03 14:44:26 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/public/photo_attachment/1/original/6746-4_1_.jpg" for 127.0.0.1 at 2014-06-03 14:45:38 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Connecting to database specified by database.yml
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:46:51 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (31.0ms)
+Completed 200 OK in 112ms (Views: 102.0ms | ActiveRecord: 7.0ms)
+Started GET "/public/photo_attachment/1/original/6746-4_1_.jpg?1401821063" for 127.0.0.1 at 2014-06-03 14:46:51 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/6746-4_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-03 14:46:53 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/edit.html.erb within layouts/application (153.0ms)
+Completed 200 OK in 163ms (Views: 154.0ms | ActiveRecord: 7.0ms)
+Started PUT "/fichas/1" for 127.0.0.1 at 2014-06-03 14:47:00 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "cargo_id"=>"1", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x00000005079d38 @original_filename="11303399flaitemagic4ly.jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"11303399flaitemagic4ly.jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140603-8456-tbf43d>>}, "commit"=>"Guardar Cambios", "id"=>"1"}
+[paperclip] deleting C:/rails_code/ficheros/public/photo_attachment/1/original/6746-4_1_.jpg
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 157ms (ActiveRecord: 75.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:47:00 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+Started GET "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821220" for 127.0.0.1 at 2014-06-03 14:47:00 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:47:02 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 77ms (Views: 17.0ms | ActiveRecord: 7.0ms)
+Started GET "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821220" for 127.0.0.1 at 2014-06-03 14:47:02 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821220" for 127.0.0.1 at 2014-06-03 14:47:04 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Connecting to database specified by database.yml
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:50:49 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (72.0ms)
+Completed 200 OK in 115ms (Views: 104.0ms | ActiveRecord: 9.0ms)
+Started GET "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821220" for 127.0.0.1 at 2014-06-03 14:50:49 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:50:51 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 61ms (Views: 26.0ms | ActiveRecord: 5.0ms)
+Started GET "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821220" for 127.0.0.1 at 2014-06-03 14:50:52 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-03 14:50:53 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/edit.html.erb within layouts/application (139.0ms)
+Completed 200 OK in 147ms (Views: 146.0ms | ActiveRecord: 0.0ms)
+Started PUT "/fichas/1" for 127.0.0.1 at 2014-06-03 14:51:02 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "cargo_id"=>"1", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x00000005090d80 @original_filename="11303399flaitemagic4ly.jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"11303399flaitemagic4ly.jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140603-8560-9jwsdy>>}, "commit"=>"Guardar Cambios", "id"=>"1"}
+[paperclip] deleting C:/rails_code/ficheros/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 192ms (ActiveRecord: 93.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:51:02 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+Started GET "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821462" for 127.0.0.1 at 2014-06-03 14:51:02 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821462" for 127.0.0.1 at 2014-06-03 14:51:06 -0400
+
+ActionController::RoutingError (No route matches [GET] "/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Connecting to database specified by database.yml
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:57:36 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (32.0ms)
+Compiled jquery.Rut.js  (0ms)  (pid 8600)
+Compiled jquery.Rut.min.js  (0ms)  (pid 8600)
+Completed 200 OK in 3351ms (Views: 3336.2ms | ActiveRecord: 14.0ms)
+Started GET "/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821462" for 127.0.0.1 at 2014-06-03 14:57:40 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:57:42 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 67ms (Views: 29.0ms | ActiveRecord: 6.0ms)
+Started GET "/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821462" for 127.0.0.1 at 2014-06-03 14:57:42 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821462" for 127.0.0.1 at 2014-06-03 14:57:44 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Connecting to database specified by database.yml
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:59:26 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (33.0ms)
+Compiled jquery.Rut.js  (0ms)  (pid 7200)
+Compiled jquery.Rut.min.js  (0ms)  (pid 7200)
+Completed 200 OK in 3465ms (Views: 3450.2ms | ActiveRecord: 13.0ms)
+Started GET "/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821462" for 127.0.0.1 at 2014-06-03 14:59:30 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/assets/tableft.gif" for 127.0.0.1 at 2014-06-03 14:59:30 -0400
+Served asset /tableft.gif - 304 Not Modified (3ms)
+Started GET "/assets/tabright.gif" for 127.0.0.1 at 2014-06-03 14:59:30 -0400
+Served asset /tabright.gif - 304 Not Modified (1ms)
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:59:31 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 62ms (Views: 24.0ms | ActiveRecord: 7.0ms)
+Started GET "/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821462" for 127.0.0.1 at 2014-06-03 14:59:32 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-03 14:59:33 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/edit.html.erb within layouts/application (97.0ms)
+Completed 200 OK in 105ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+Started PUT "/fichas/1" for 127.0.0.1 at 2014-06-03 14:59:39 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "cargo_id"=>"1", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x0000000533c070 @original_filename="11303399flaitemagic4ly.jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"11303399flaitemagic4ly.jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140603-7200-m21w55>>}, "commit"=>"Guardar Cambios", "id"=>"1"}
+[paperclip] deleting C:/rails_code/ficheros/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 200ms (ActiveRecord: 93.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:59:39 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+Started GET "/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821979" for 127.0.0.1 at 2014-06-03 14:59:39 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:59:41 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 18ms (Views: 12.0ms | ActiveRecord: 3.0ms)
+Started GET "/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821979" for 127.0.0.1 at 2014-06-03 14:59:41 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/photo_attachment/1/original/11303399flaitemagic4ly.jpg?1401821979" for 127.0.0.1 at 2014-06-03 14:59:42 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/11303399flaitemagic4ly.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-03 14:59:47 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/edit.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 31ms (Views: 29.0ms | ActiveRecord: 1.0ms)
+Started PUT "/fichas/1" for 127.0.0.1 at 2014-06-03 14:59:52 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "cargo_id"=>"1", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x00000004df5300 @original_filename="art1[1].jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"art1[1].jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140603-7200-107dm77>>}, "commit"=>"Guardar Cambios", "id"=>"1"}
+[paperclip] deleting C:/rails_code/ficheros/public/photo_attachment/1/original/11303399flaitemagic4ly.jpg
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 144ms (ActiveRecord: 78.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 14:59:52 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+Started GET "/photo_attachment/1/original/art1_1_.jpg?1401821992" for 127.0.0.1 at 2014-06-03 14:59:53 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/photo_attachment/1/original/art1_1_.jpg?1401821992" for 127.0.0.1 at 2014-06-03 14:59:55 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 14:59:57 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 21ms (Views: 14.0ms | ActiveRecord: 1.0ms)
+Started GET "/photo_attachment/1/original/art1_1_.jpg?1401821992" for 127.0.0.1 at 2014-06-03 14:59:57 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/1/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Connecting to database specified by database.yml
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 15:04:01 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (74.0ms)
+Completed 200 OK in 175ms (Views: 112.0ms | ActiveRecord: 10.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 15:04:08 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-03 15:04:09 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 30ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-03 15:04:10 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-03 15:04:11 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 15ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-03 15:04:11 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-03 15:04:12 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-03 15:04:12 -0400
+Processing by TiposController#index as HTML
+  Rendered tipos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 12ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 15:04:14 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 15:04:18 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 19ms (Views: 13.0ms | ActiveRecord: 2.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 15:04:50 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-03 15:04:52 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 11ms (Views: 7.0ms | ActiveRecord: 1.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-03 15:04:52 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-03 15:04:53 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 1.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-03 15:04:54 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 11ms (Views: 9.0ms | ActiveRecord: 2.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-03 15:04:55 -0400
+Processing by TiposController#index as HTML
+  Rendered tipos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 51ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-03 15:04:59 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 15:05:00 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 11ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 15:05:03 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 23ms (Views: 15.0ms | ActiveRecord: 2.0ms)
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-03 15:05:04 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/edit.html.erb within layouts/application (105.0ms)
+Completed 200 OK in 114ms (Views: 111.0ms | ActiveRecord: 2.0ms)
+Started PUT "/fichas/1" for 127.0.0.1 at 2014-06-03 15:05:17 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "cargo_id"=>"1", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x00000005136938 @original_filename="6746-4[1].jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"6746-4[1].jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140603-8748-16t28k4>>}, "commit"=>"Guardar Cambios", "id"=>"1"}
+[paperclip] deleting C:/rails_code/ficheros/public/photo_attachment/1/original/art1_1_.jpg
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 309ms (ActiveRecord: 147.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 15:05:18 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 15:05:22 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 20ms (Views: 11.0ms | ActiveRecord: 4.0ms)
+Started GET "/asistencias/1" for 127.0.0.1 at 2014-06-03 15:05:41 -0400
+Processing by AsistenciasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered asistencias/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 20ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 15:05:44 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-03 15:05:45 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 20ms (Views: 13.0ms | ActiveRecord: 2.0ms)
+Started GET "/pagos/1" for 127.0.0.1 at 2014-06-03 15:05:46 -0400
+Processing by PagosController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered pagos/show.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 38ms (Views: 34.0ms | ActiveRecord: 1.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-03 15:05:48 -0400
+Processing by TiposController#index as HTML
+  Rendered tipos/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-03 15:05:50 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 1.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-03 15:05:50 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 1.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-03 15:05:50 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-03 15:05:51 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 10ms (Views: 7.0ms | ActiveRecord: 1.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 15:05:51 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 14ms (Views: 11.0ms | ActiveRecord: 2.0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 15:38:17 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (10.0ms)
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 88ms (Views: 4.0ms | ActiveRecord: 5.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-03 15:38:19 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (2.0ms)
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 10ms (Views: 1.0ms | ActiveRecord: 2.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-03 15:38:25 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (1.0ms)
+Completed 404 Not Found in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-03 15:38:27 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Compiled application.js  (0ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/actividads.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled actividads.css  (6ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled asistencias.css  (3ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/cargos.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled cargos.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/eventos.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled eventos.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/examens.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled examens.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/fichas.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled fichas.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/locals.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled locals.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/lugars.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled lugars.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/pagos.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled pagos.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/participacions.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled participacions.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/posts.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled posts.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/sessions.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled sessions.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/tipos.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled tipos.css  (2ms)  (pid 8704)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/users.css.scssc: can't dump anonymous class #<Class:0x00000005361eb0>
+
+Compiled users.css  (2ms)  (pid 8704)
+Compiled application.css  (200ms)  (pid 8704)
+Compiled application.js  (0ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/actividads.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled actividads.css  (5ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled asistencias.css  (3ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/cargos.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled cargos.css  (2ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/eventos.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled eventos.css  (3ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/examens.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled examens.css  (2ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/fichas.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled fichas.css  (2ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/locals.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled locals.css  (3ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/lugars.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled lugars.css  (2ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/pagos.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled pagos.css  (1ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/participacions.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled participacions.css  (2ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/posts.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled posts.css  (2ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/sessions.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled sessions.css  (2ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/tipos.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled tipos.css  (2ms)  (pid 8400)
+Warning. Error encountered while saving cache C:/rails_code/ficheros/tmp/cache/sass/3a4a1183d06a4543854e6e364bd4e23c15b35ecd/users.css.scssc: can't dump anonymous class #<Class:0x00000004db5458>
+
+Compiled users.css  (2ms)  (pid 8400)
+Compiled application.css  (199ms)  (pid 8400)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-03 15:39:58 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (3.0ms)
+Completed 404 Not Found in 89ms (Views: 57.0ms | ActiveRecord: 7.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-03 15:40:01 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-03 15:40:15 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (160.0ms)
+Compiled jquery.Rut.js  (0ms)  (pid 9400)
+Compiled jquery.Rut.min.js  (0ms)  (pid 9400)
+Completed 200 OK in 3754ms (Views: 3753.2ms | ActiveRecord: 0.0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-03 15:40:19 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 200 OK (0ms)
+Started GET "/assets/jquery.Rut.min-6b5c2bb77ff0974b3e2f36e3d600448b.js" for 127.0.0.1 at 2014-06-03 15:40:19 -0400
+Served asset /jquery.Rut.min-6b5c2bb77ff0974b3e2f36e3d600448b.js - 200 OK (0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-03 15:40:19 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (94.0ms)
+Completed 200 OK in 99ms (Views: 98.0ms | ActiveRecord: 1.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-03 15:40:19 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 11ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+Started GET "/log_in" for 127.0.0.1 at 2014-06-03 15:40:19 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-03 15:40:19 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-03 15:40:20 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-03 15:40:20 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-03 15:40:20 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 1.0ms)
+Started GET "/actividads/new" for 127.0.0.1 at 2014-06-03 15:40:20 -0400
+Processing by ActividadsController#new as HTML
+  Rendered actividads/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 33ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-08 13:29:07 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 169ms (Views: 168.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-08 13:29:15 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 140ms (Views: 8.0ms | ActiveRecord: 116.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-08 13:29:31 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "email"=>"km_cob_316@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-08 13:29:39 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "email"=>"carlos.mellado@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+  Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-08 13:29:49 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (358.0ms)
+Completed 200 OK in 449ms (Views: 377.0ms | ActiveRecord: 3.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-08 13:31:00 -0400
+Processing by TiposController#index as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-08 13:31:00 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-08 13:31:06 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-08 13:31:15 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 40ms (Views: 36.0ms | ActiveRecord: 2.0ms)
+Started GET "/lugars/new" for 127.0.0.1 at 2014-06-08 13:31:16 -0400
+Processing by LugarsController#new as HTML
+  Rendered lugars/new.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 108ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+Started POST "/lugars" for 127.0.0.1 at 2014-06-08 13:31:23 -0400
+Processing by LugarsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "lugar"=>{"nombre"=>"UBB", "ubicacion"=>""}, "commit"=>"Agregar Nuevo Lugar"}
+Redirected to http://localhost:3000/lugars
+Completed 302 Found in 294ms (ActiveRecord: 120.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-08 13:31:23 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 20ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-08 13:31:33 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 30ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos/new" for 127.0.0.1 at 2014-06-08 13:31:35 -0400
+Processing by CargosController#new as HTML
+  Rendered cargos/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 42ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+Started POST "/cargos" for 127.0.0.1 at 2014-06-08 13:31:39 -0400
+Processing by CargosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "cargo"=>{"nombre"=>"Administrador", "descripcion"=>""}, "commit"=>"Agregar Cargo"}
+Redirected to http://localhost:3000/cargos
+Completed 302 Found in 180ms (ActiveRecord: 174.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-08 13:31:39 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-08 13:31:56 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered public/404.html (1.0ms)
+Completed 404 Not Found in 14ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-08 13:32:00 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/log_in" for 127.0.0.1 at 2014-06-08 13:32:02 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-08 13:32:02 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-08 13:32:13 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started GET "/actividads/new" for 127.0.0.1 at 2014-06-08 13:32:14 -0400
+Processing by ActividadsController#new as HTML
+  Rendered actividads/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 49ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+Started POST "/actividads" for 127.0.0.1 at 2014-06-08 13:32:17 -0400
+Processing by ActividadsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "actividad"=>{"nombre"=>"Estudiante", "descripcion"=>""}, "commit"=>"Agregar Nueva Ocupación"}
+Redirected to http://localhost:3000/actividads
+Completed 302 Found in 158ms (ActiveRecord: 151.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-08 13:32:17 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 12ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-08 13:32:20 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (52.0ms)
+Completed 200 OK in 57ms (Views: 56.0ms | ActiveRecord: 1.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-08 13:32:33 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 24ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-08 13:32:48 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 23ms (Views: 21.0ms | ActiveRecord: 1.0ms)
+Started GET "/locals/new" for 127.0.0.1 at 2014-06-08 13:32:49 -0400
+Processing by LocalsController#new as HTML
+  Rendered locals/new.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 34ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+Started POST "/locals" for 127.0.0.1 at 2014-06-08 13:32:51 -0400
+Processing by LocalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "local"=>{"nombre"=>"Universidad Del Bio Bio", "ubicacion"=>"", "fono"=>""}, "commit"=>"Agregar Nuevo Local"}
+Redirected to http://localhost:3000/locals
+Completed 302 Found in 139ms (ActiveRecord: 132.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-08 13:32:51 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-08 13:32:55 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 1.0ms)
+Started POST "/fichas" for 127.0.0.1 at 2014-06-08 13:33:13 -0400
+Processing by FichasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "cargo_id"=>"1", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1"}, "commit"=>"Agregar Nueva Ficha"}
+Binary data inserted for `string` type on column `password_hash`
+Binary data inserted for `string` type on column `password_salt`
+Redirected to http://localhost:3000/fichas/new
+Completed 302 Found in 207ms (ActiveRecord: 56.0ms)
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-08 13:33:13 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (30.0ms)
+Completed 200 OK in 34ms (Views: 33.0ms | ActiveRecord: 1.0ms)
+Started GET "/log_in" for 127.0.0.1 at 2014-06-08 13:33:15 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 8ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-08 13:33:18 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 81ms (ActiveRecord: 2.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-08 13:33:18 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 40ms (Views: 38.0ms | ActiveRecord: 1.0ms)
+Started GET "/photos/original/missing.png" for 127.0.0.1 at 2014-06-08 13:33:18 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photos/original/missing.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/photos/original/missing.png" for 127.0.0.1 at 2014-06-08 13:33:21 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photos/original/missing.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/1/edit" for 127.0.0.1 at 2014-06-08 13:33:24 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/edit.html.erb within layouts/application (27.0ms)
+Completed 200 OK in 49ms (Views: 45.0ms | ActiveRecord: 1.0ms)
+Started PUT "/fichas/1" for 127.0.0.1 at 2014-06-08 13:33:35 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K3bO5Kh7hvkUYndtaeEKgTTcvOsdIU2AfX7imqJVleQ=", "ficha"=>{"nombre"=>"Carlos Mellado", "rut"=>"17.510.232-9", "cargo_id"=>"1", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1989", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x00000004988830 @original_filename="6746-4[1].jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"6746-4[1].jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140608-6220-1ym3ayy>>}, "commit"=>"Guardar Cambios", "id"=>"1"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 172ms (ActiveRecord: 82.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-08 13:33:35 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-08 13:33:46 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 1.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-08 13:33:47 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 26ms (Views: 22.0ms | ActiveRecord: 1.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-08 13:33:47 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 31ms (Views: 26.0ms | ActiveRecord: 1.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-08 13:33:48 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 40ms (Views: 14.0ms | ActiveRecord: 1.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-08 13:33:49 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 11ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+Started GET "/tipos" for 127.0.0.1 at 2014-06-08 13:33:49 -0400
+Processing by TiposController#index as HTML
+  Rendered tipos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 24ms (Views: 20.0ms | ActiveRecord: 1.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-08 13:33:50 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 12ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas?utf8=%E2%9C%93&search=Carlos" for 127.0.0.1 at 2014-06-08 13:33:56 -0400
+Processing by FichasController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"Carlos"}
+  Rendered fichas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 32ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-08 13:34:20 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-08 13:34:20 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-08 15:55:06 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 115ms (Views: 64.0ms | ActiveRecord: 23.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-08 15:55:19 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 1.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-08 15:55:21 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-08 15:55:21 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)

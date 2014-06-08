@@ -1,0 +1,14 @@
+
+<div id="fullConten">
+<div id="titulo", class="colorCeleste"> Nombre del Grado <%= @tipo.nombre%></div>
+
+<div id="texto2">
+<p >Ubicación : <%= @tipo.descripcion%></p>
+
+
+<%= link_to "Editar", edit_tipo_path(@tipo)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+<%= link_to "Volver", tipos_path ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+
+</div>
+</div>

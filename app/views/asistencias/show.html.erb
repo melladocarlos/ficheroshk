@@ -1,0 +1,35 @@
+<div id="full">
+<h1>Asistencias De <%= @ficha.nombre %></h1>
+
+
+<table id="contenPost">   
+  
+  <th id = "botonCeleste" ><%=  "Fecha" %></th>  
+  <th id = "botonCeleste" ><%=  "Horas" %></th>  
+  <th style="width: 110px;"></th>
+  
+  
+  <% for asistencia in @asistencias %>  
+  <tr >      	
+
+    <td ><%=  asistencia.fecha%></td>  
+    <td><%= asistencia.horas %></td> 
+    <td><div id="opciones">  
+    
+    <%= link_to "Editar", edit_asistencia_path(asistencia)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+  <% if @current_user.cargo_id==1 %>
+    <%=  link_to "Borrar",  asistencia_path(asistencia), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+  <% else %>   
+  <% end %>
+
+    </div>  </td> 
+
+  </tr>  
+  <% end %>  
+</table>  
+  
+<%= link_to "Agregar nueva asistencia", new_asistencia_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+<INPUT id = "botonIzq" class="colorCeleste" Type="button" VALUE="Volver"  onClick="history.go(-1);return true;">
+</INPUT>
+</div>

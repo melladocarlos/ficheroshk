@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+  <title>Registros y Pagos</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= javascript_include_tag "jquery.Rut" %>
+  <%= javascript_include_tag "jquery.Rut.min" %>
+  <%= csrf_meta_tags %>
+
+<script language="javascript" type="text/javascript">
+
+$('document').ready(function() {
+  setTimeout(function() {
+    $('#flashmsg').slideUp();
+  }, 3000);
+});
+</script>
+
+</head>
+
+<% if current_user %>
+
+<% if current_user.cargo_id == 1 ;  
+      'Administrador'; %>
+    <div id="tabs">
+    <ul><li><a href="<%=fichas_path%>"><span>Registros</span></a></li>
+      <li><a href="<%=asistencias_path%>"><span>Asistencias</span></a></li>    
+      <li><a href="<%=pagos_path%>"><span>Pagos</span></a></li>
+      <li><a href="<%=cargos_path%>"><span>Cargos</span></a></li>
+      <li><a href="<%=actividads_path%>"><span>Actividades</span></a></li>
+      <li><a href="<%=tipos_path%>"><span>Tipos Pagos</span></a></li>
+      <li><a href="<%=locals_path%>"><span>Locales</span></a></li>
+      <%= form_tag fichas_path,:class=>'busqueda', :method => 'get' do %>
+      <%= text_field_tag :search, params[:search],:placeholder => 'Buscar Por Nombre' %>
+      <%= submit_tag "Buscar", :name => nil %>
+      <% end %>
+       
+
+
+      <%else      
+         'Sin Cargo';%>
+  <div id="tabs">
+    <ul><li><a href="<%=ficha_path (current_user)%>"><span>Perfil</span></a></li> 
+    <li><a href="<%=asistencia_path(current_user)%>"><span>Asistencias</span></a></li>    
+      <li><a href="<%=pago_path(current_user)%>"><span>Pagos</span></a></li>   
+
+  <% end %>
+  
+</ul></div>
+
+
+  <div id="user_nav"> 
+    Bienvenid@<br>   
+    <%= if current_user.nombre == nil ;  
+      current_user.email;
+    else 
+      current_user.nombre ;
+    end 
+     %><br>
+    <%= link_to "SALIR", log_out_path %>
+  </div>
+
+
+
+  <% else %>
+    <%= link_to "Registrarse", sign_up_path %> or
+    <%= link_to "Iniciar Sesión", log_in_path %>
+  <% end %>
+
+
+    
+<body >
+<!--Para que muestre los mensajes mediante flash
+-->
+
+
+<% flash.each  do |key, value| %>
+<div id="flashmsg"> 
+<%= value %> 
+</div> 
+<% end %> 
+<div id="wrapper">
+<%= yield %>
+ 
+</div>
+</body>
+<footer>Carlos Mellado 2014</footer>
+</html>

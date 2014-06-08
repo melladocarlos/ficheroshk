@@ -19,10 +19,10 @@ class FichasController < ApplicationController
         @cargo = Cargo.find_by_id(@ficha.cargo_id.to_i)
         @lugar = Lugar.find_by_id(@ficha.lugar_id.to_i)
         @actividad = Actividad.find_by_id(@ficha.actividad_id.to_i)
-        @asistenciaParcial= @asistencias.select("datetime(mes_ano) as ordered_fecha, sum(horas) as total_horas").group("date(mes_ano)")
+        @asistenciaParcial= @asistencias.select("date(mes_ano) as ordered_fecha, sum(horas) as total_horas").group("date(mes_ano)")
         @asistenciaParcial=@asistenciaParcial.where(mes_ano: (Time.now - 1.year)..Time.now)
         
-        @pagoParcial= @pagos.select("datetime(mes_ano) as ordered_fecha, sum(valor) as total_horas").group("date(mes_ano)")
+        @pagoParcial= @pagos.select("date(mes_ano) as ordered_fecha, sum(valor) as total_horas").group("date(mes_ano)")
         @pagoParcial=@pagoParcial.where(mes_ano: (Time.now - 1.year)..Time.now)
 
 

@@ -9,27 +9,30 @@
 <p >ID: <%=@ficha.id.to_i%></p>
 <p>Rut: <%=  @ficha.rut %></p>
  <p >Tipo: <%= 
- @cargo.nombre;
-%></p>
+if @cargo.nil? ;  'Sin Información';
+else @cargo.nombre;
+end  %></p>
 
 <p> Fecha de Nacimiento: <%=  @ficha.fechanacimiento.to_formatted_s(:rfc822)      %></p>
 <p >Actividad: <%= 
- @actividad.nombre;
-%></p>
+if @actividad.nil? ;  'Sin Información';
+else @actividad.nombre;
+end  %></p>
 
 
 
 <p >Lugar de estudio/trabajo: <%= 
- @local.nombre;
-%></p>
+if @local.nil? ;  'Sin Información';
+else @local.nombre;
+end  %></p>
 
-<p >Total Horas: <%=   @asistencias.sum(:horas)%></p>
-
-
-<p>Total Pagos:<%= @pagos.sum(:valor) %></p>
+<p >Total Horas: <%=number_to_currency(   @asistencias.sum(:horas), :unit => "", :delimiter => ".", :precision=> 0)%></p>
 
 
-<p >Fono: <%=@ficha.fono%></p>
+<p>Total Pagos:<%= number_to_currency(@pagos.sum(:valor), :unit => "$", :delimiter => ".", :precision=> 0) %></p>
+
+
+<p >Fono: <%=number_to_phone(@ficha.fono)%></p>
 <p >Email: <%=@ficha.email%></p>
 
 </div>
@@ -39,8 +42,33 @@
 
 
 
+  <table id="tableConten">
 
 
+
+
+  <td ><h1>ASISTENCIA PARCIAL </h1>
+
+
+ <%= link_to 'VER ASISTENCIA COMPLETA ', asistencia_path(@ficha)%>
+
+
+
+<table id="tableConten">   
+  
+  <th id = "botonCeleste" ><%=  "Mes Año" %></th>  
+  <th id = "botonCeleste" ><%=  "Horas Mensuales" %></th>  
+  
+  
+  <% for asistencia in @asistenciaParcial %>  
+  <tr >  
+  <td><%= Time.zone.parse(asistencia.ordered_fecha).strftime("%Y" " %B") %></td>      
+  <td><%= number_to_currency(asistencia.total_horas, :unit => "", :delimiter => ".", :precision=> 0) %></td>    
+
+  </tr>  
+  <% end %>  
+</table> 
+</table>
 
 
 
@@ -53,8 +81,8 @@
   
   <% for pago in @pagoParcial %>  
   <tr >  
-  <td><%= pago.ordered_fecha %></td>      
-  <td><%= pago.total_horas%></td>    
+  <td><%= Time.zone.parse(pago.ordered_fecha).strftime("%Y" " %B") %></td>      
+  <td><%= number_to_currency(pago.total_horas, :unit => "$", :delimiter => ".", :precision=> 0) %></td>    
 
   </tr>  
   <% end %>  

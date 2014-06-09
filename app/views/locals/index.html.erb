@@ -19,7 +19,7 @@
 
 
 <td><div id="opciones"><%= link_to "Editar", edit_local_path(local)  ,:id => "botonIzq",:class=>"colorCeleste"%>
-    <%=  link_to "Borrar",  local_path(local), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+    <%=  button_to "Borrar",  local_path(local), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
     </div></td>
 
     

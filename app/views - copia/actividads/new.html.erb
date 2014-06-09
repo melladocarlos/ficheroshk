@@ -1,0 +1,31 @@
+<div id="fullConten">
+
+<div id="titulo", class="colorCeleste">Nueva Ocupación</div>
+<div id="texto2">
+<%= simple_form_for @actividad, :url => actividads_path , :method => 'post' do |f| %>
+
+<% if @actividad.errors.any? %>
+	<div id="flashmsg"> 
+			
+		<ul>Errores:
+			<% @actividad.errors.full_messages.each do |message| %>
+				<li><%= message %></li>				
+			<% end %>
+		</ul></div>
+	<% end %>
+	
+	<%= f.input :nombre,:placeholder => 'Ingrese el nombre', input_html: { maxlength: 30}%>
+
+	<%= f.input :descripcion,:placeholder => 'Ingrese un detalle para la ocupación.', input_html: { maxlength: 150, pattern:"[A-Z a-z]{2,25}" }%>   
+
+
+<%= f.submit "Agregar Nueva Ocupación" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+
+
+<%= link_to "Cancelar", actividads_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %>
+
+
+<% end %>
+</div>
+</div>
+

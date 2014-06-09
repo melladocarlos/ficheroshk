@@ -18,7 +18,7 @@
     <td><%=link_to examen.detalle , examen_path(examen)%></td> 
     <td><%=link_to examen.pagado , examen_path(examen)%></td> 
     <td><%= link_to "Editar", edit_examen_path(examen)  ,:id => "botonIzq",:class=>"colorCeleste"%>
-    <%=  link_to "Borrar",  examen_path(examen), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%></td>
+    <%=  button_to "Borrar",  examen_path(examen), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%></td>
 
 
 

@@ -1,0 +1,51 @@
+
+<div id="full">
+<h1>Pagos De <%= @ficha.nombre %></h1>
+
+<table id="contenPost">   
+  <th></th> 
+  <th id = "botonCeleste" ><%= sortable "fecha" %></th>
+  
+  <th id = "botonCeleste" ><%= sortable "tipo_id" %></th>
+  <th id = "botonCeleste" ><%= sortable "valor" %></th>
+  <th style="width: 110px;"></th>
+  
+  <% for pago in @pagos %>  
+  <tr >    
+    <td><a  href="<%=pago.recibo.url%>"><%= image_tag pago.recibo.url ,:id=>"imagen2"%></a></td> 
+
+    <td ><%=  pago.fecha%></td>  
+    <td>
+    <%= 
+
+    if Tipo.find_by_id(pago.tipo_id.to_i).nil? ;  
+      'Sin Información';
+    else Tipo.find_by_id(pago.tipo_id.to_i).nombre;
+    end    
+
+    %></td> 
+
+
+    <td><%= number_to_currency(pago.valor, :unit => "$", :delimiter => ".", :precision=> 0)
+     %></td> 
+
+
+     <td><div id="opciones"> <%= link_to "Editar", edit_pago_path(pago)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+  <% if @current_user.cargo_id==1 %>
+    <%=  link_to "Borrar",  pago_path(pago), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+  <% else %>   
+  <% end %>
+
+
+    </div></td>
+
+  </tr>  
+  <% end %>  
+</table>  
+  
+  <%= will_paginate @pagos %>  
+<%= link_to "Agregar nueva pago", new_pago_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%> 
+<INPUT id = "botonIzq" class="colorCeleste" Type="button" VALUE="Volver"  onClick="history.go(-1);return true;">
+
+</INPUT></div>

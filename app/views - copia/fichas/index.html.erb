@@ -1,0 +1,36 @@
+
+<div id="full">
+<h1> Registros </h1>  
+<table id="contenPost">   
+  
+  <th ></th>
+  <th id = "botonCeleste" ><%= sortable "nombre"  %></th>  
+  <th id = "botonCeleste" ><%= sortable "rut" %></th>  
+
+  <th style="width: 110px;"></th> 
+  
+  <% for ficha in @fichas %>  
+
+  <tr >      
+  <td><a  href="<%=ficha.photo.url%>"><%= image_tag ficha.photo.url ,:id=>"imagen2"%></a></td>
+    <td ><%= link_to ficha.nombre, ficha %></td>  
+    <td class="rut"><%= link_to ficha.rut, ficha%></td>      
+      
+
+    <td><div id="opciones">  <%= link_to "Editar", edit_ficha_path(ficha) , id:"botonIzq"         ,:class=>"colorCeleste"%>
+          
+
+
+      <%= button_to "Eliminar", ficha, :method => :delete,:id => "botonIzq",:class=>"colorCeleste" %>
+
+
+
+  </div></td>
+  </tr>  
+  <% end %>
+</table>  
+
+  <%= will_paginate @fichas %>  
+  
+<%= link_to "Agregar nueva ficha", new_ficha_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%> 
+</div>

@@ -1,0 +1,16 @@
+
+<div id="fullConten">
+<div id="titulo", class="colorCeleste"> Nombre Del Evento : <%=  @evento.nombre %></div>
+
+<div id="texto2">
+<p >Fecha : <%= @evento.fecha%></p>
+
+<p >Descripcion :</p><p> <%= @evento.descripcion%></p>
+
+<%= link_to "Editar", edit_evento_path(@evento)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+<%= link_to "Volver", eventos_path ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+
+</div>
+</div>
+

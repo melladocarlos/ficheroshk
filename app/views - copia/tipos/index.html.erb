@@ -1,0 +1,36 @@
+
+<div id="full">
+
+<h1>Todos los Tipos de Pagos</h1>
+
+<table id="contenPost">   
+  
+  
+  <th id = "botonCeleste" >Nombre</th>  
+  <th id = "botonCeleste" >Descripción</th>  
+  <th style="width: 110px;"></th>
+
+  
+  <% for tipo in @tipos %>  
+  <tr >      	
+    <td ><%=link_to  tipo.nombre, tipo%></td>  
+    <td ><%=link_to  tipo.descripcion, tipo%></td> 
+        <td><div id="opciones">  <%= link_to "Editar", edit_tipo_path(tipo) , id:"botonIzq"					,:class=>"colorCeleste"%>
+					 <%=  link_to "Borrar", tipo, :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+	</div></td>  
+  </tr>  
+
+
+
+  <% end %>  
+</table>  
+  
+
+<%= link_to "Agregar Nuevo Grado", new_tipo_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%> 
+<%= link_to "Volver a Registro", fichas_path,:id => "botonIzq",:class=>"colorCeleste"   %>
+
+</div>
+
+
+
+

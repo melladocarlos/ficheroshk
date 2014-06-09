@@ -1,0 +1,40 @@
+
+<div id="full">
+<h1>Asistencias</h1>
+
+<table id="contenPost">   
+  
+  <th id = "botonCeleste" ><%= sortable "nombre"  %></th>  
+  <th id = "botonCeleste" ><%= sortable "fecha" %></th>
+  <th id = "botonCeleste" ><%= sortable "horas" %></th>
+  <th style="width: 110px;"></th>
+  
+  <% for asistencia in @asistencias %>  
+  <tr >      	
+
+    <td><%=
+
+if Ficha.find_by_id(asistencia.ficha_id.to_i).nil? ;  
+  'Sin Información';
+else link_to Ficha.find_by_id(asistencia.ficha_id.to_i).nombre, asistencia_path(asistencia.ficha_id);
+end 
+
+    %></td>
+    <td ><%= link_to asistencia.fecha , asistencia_path(asistencia.ficha_id)%></td>  
+    <td><%=link_to asistencia.horas, asistencia_path(asistencia.ficha_id)%></td>   
+    <td><div id="opciones">  
+    
+    <%= link_to "Editar", edit_asistencia_path(asistencia)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+    <%= button_to "Eliminar", eliminar_asistencia_path(asistencia), :method => :delete,:id => "botonIzq",:class=>"colorCeleste", data: { confirm: "Are you sure?" } %> 
+
+  </td> 
+
+  </tr>  
+  <% end %>  
+</table>  
+
+  <%= will_paginate @asistencias %> 
+<%= link_to "Agregar nueva asistencia", new_asistencia_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%> 
+<%= link_to "Volver a Registro", fichas_path,:id => "botonIzq",:class=>"colorCeleste"   %>
+</div>

@@ -1,0 +1,56 @@
+<div id="titulo", class="colorCeleste">Nueva ficha</div>
+<%= simple_form_for @ficha, :url => fichas_path , :method => 'post' do |f| %>
+
+	<% if @ficha.errors.any? %>
+	<div id="flashmsg"> 
+			
+		<ul>Errores:
+			<% @ficha.errors.full_messages.each do |message| %>
+				<li><%= message %></li>				
+			<% end %>
+		</ul></div>
+	<% end %>
+
+<div id="ficha">
+
+	<div id="input"><%= f.input :nombre,:placeholder => 'Ingrese el nombre', input_html: { maxlength: 30, pattern:"[A-Z a-z]{2,25}" }%></div>
+	<div id="input"><%= f.input :rut,:placeholder => 'Sin puntos ni guión.', input_html: { maxlength: 12 }%></div>
+	
+	<div id="input"><%= f.input :email,:placeholder => 'persona@servicio.com', input_html: { type:'email'  }%></div>
+
+	<div id="input"><%= f.input :password%></div>
+
+	<div id="input"><%= f.input :password_confirmation %></div>
+
+
+
+
+
+	  <div id="input"><%= f.input :cargo_id, label: 'Tipo de Usuario', :collection => Cargo.all(:order=>'nombre'), :include_blank => 'Seleccione',:label_method=> :nombre%></div>	
+	
+
+
+
+  
+	
+	<div id="input"><%= f.input :fono, input_html: { maxlength: 15 }%></div>
+	
+	<div id="input"><%= f.input :fechanacimiento, label: 'Fecha de Nacimiento', as: :date, start_year: Date.today.year,:use_month_numbers => true, end_year: Date.today.year-110, order: [:day,:month, :year] ,:prompt => { :day => 'Dia', :month => 'Mes', :year => 'Año' }%></div>
+	
+
+	<div id="input"><%= f.input :actividad_id, :collection => Actividad.all(:order=>'nombre'),  :include_blank => 'Seleccione',:label_method=> :nombre%></div>
+
+    <div id="input"><%= f.input :local_id, label: 'Lugar de estudio/trabajo', :collection => Local.all(:order=>'nombre'), :include_blank => 'Seleccione',:label_method=> :nombre%></div>
+
+    <div id="input"><%= f.label "Imagen (2 mb máx, jpg,jpeg,png)" ,:id=>"small"%>    
+    <%= f.file_field :photo %></div>
+
+
+
+
+ <div id="input">
+<%= f.submit "Agregar Nueva Ficha" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+
+<%= link_to "Cancelar", fichas_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %></div>
+</div>
+<% end %>

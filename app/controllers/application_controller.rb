@@ -1,7 +1,6 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery
   helper_method :current_user
-  #force_ssl
 
   rescue_from ActiveRecord::RecordNotFound, :with => :record_not_found
   def record_not_found

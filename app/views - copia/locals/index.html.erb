@@ -1,0 +1,32 @@
+
+<div id="full">
+
+<h1>Lugar de Estudio/Trabajo</h1>
+
+<table id="contenPost">   
+  
+  
+  <th id = "botonCeleste" ><%=  "Nombre"  %></th>  
+  <th id = "botonCeleste" ><%=  "Ubicación" %></th>  
+  <th id = "botonCeleste" ><%=  "Fono" %></th>  
+  <th style="width: 110px;"></th> 
+  
+  <% for local in @locals %>  
+  <tr >      	
+    <td ><%=link_to  local.nombre , local%></td>  
+    <td ><%=link_to  local.ubicacion, local%></td>  
+    <td><%=link_to local.fono , local%></td>   
+
+
+<td><div id="opciones"><%= link_to "Editar", edit_local_path(local)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+    <%=  link_to "Borrar",  local_path(local), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+    </div></td>
+
+    
+  </tr>  
+  <% end %>  
+</table>  
+  
+<%= link_to "Agregar Nuevo Lugar", new_local_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%> 
+<%= link_to "Volver a Registro", fichas_path,:id => "botonIzq",:class=>"colorCeleste"   %>
+</div>

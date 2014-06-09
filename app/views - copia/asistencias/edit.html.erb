@@ -1,0 +1,36 @@
+
+
+<div id="contenPost">
+
+<div id="titulo", class="colorCeleste">Editar Asistencia</div>
+
+<%= simple_form_for @asistencia , :url => asistencia_path(@asistencia) , :method => 'put' do |f| %>
+
+
+<% if @asistencia.errors.any? %>
+	<div id="flashmsg"> 
+			
+		<ul>Errores:
+			<% @asistencia.errors.full_messages.each do |message| %>
+				<li><%= message %></li>				
+			<% end %>
+		</ul></div>
+	<% end %>
+
+	<% if current_user.cargo_id == 1 %>
+		<%= f.input :ficha_id, :collection => Ficha.all(:order=>'nombre'), :selected => :nombre,:label_method=> :nombre%>			
+
+	<% else %>			
+	<% end %>
+
+	<%= f.input :fecha, as: :date, start_year: Date.today.year,:use_month_numbers => true, end_year: Date.today.year-110, order: [:day,:month, :year]%>
+
+	<%= f.input :horas,:required => true,as: :integer, input_html: { maxlength: 10, min:"1",value:"2"}  %>
+    
+
+
+<%= f.submit "Guardar Cambios" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+<%= link_to "Cancelar", asistencias_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %>
+<% end %>
+
+</div>

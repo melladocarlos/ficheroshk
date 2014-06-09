@@ -16,7 +16,7 @@
     <td ><%=link_to  tipo.nombre, tipo%></td>  
     <td ><%=link_to  tipo.descripcion, tipo%></td> 
         <td><div id="opciones">  <%= link_to "Editar", edit_tipo_path(tipo) , id:"botonIzq"					,:class=>"colorCeleste"%>
-					 <%=  link_to "Borrar", tipo, :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+					 <%=  button_to "Borrar", tipo, :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
 	</div></td>  
   </tr>  
 

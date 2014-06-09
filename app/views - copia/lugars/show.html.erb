@@ -1,0 +1,14 @@
+
+<div id="fullConten">
+<div id="titulo", class="colorCeleste"> Lugar de Entrenamiento: <%= @lugar.nombre%></div>
+
+<div id="texto2">
+<p >Ubicación : <%= @lugar.ubicacion%></p>
+
+
+<%= link_to "Editar", edit_lugar_path(@lugar)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+<%= link_to "Volver", lugars_path ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+
+</div>
+</div>

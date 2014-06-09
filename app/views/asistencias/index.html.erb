@@ -26,7 +26,8 @@ end
     
     <%= link_to "Editar", edit_asistencia_path(asistencia)  ,:id => "botonIzq",:class=>"colorCeleste"%>
 
-    <%=  link_to "Borrar",  asistencia_path(asistencia), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%></div>
+        <%= button_to "Eliminar", eliminar_asistencia_path(asistencia), :method => :delete,:id => "botonIzq",:class=>"colorCeleste", data: { confirm: "Are you sure?" } %> 
+</div>
   </td> 
 
   </tr>  

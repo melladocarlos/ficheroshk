@@ -1,0 +1,97 @@
+
+<div id="fullConten">
+<div id="titulo", class="colorCeleste"> Nombre: <%=  @ficha.nombre %></div>
+
+<div id="texto">
+<a  href="<%=@ficha.photo.url%>"><%= image_tag @ficha.photo.url ,:id=>"imagen"%></a>
+
+
+<p >ID: <%=@ficha.id.to_i%></p>
+<p>Rut: <%=  @ficha.rut %></p>
+ <p >Tipo: <%= 
+if @cargo.nil? ;  'Sin Información';
+else @cargo.nombre;
+end  %></p>
+
+<p> Fecha de Nacimiento: <%=  @ficha.fechanacimiento.to_formatted_s(:rfc822)      %></p>
+<p >Actividad: <%= 
+if @actividad.nil? ;  'Sin Información';
+else @actividad.nombre;
+end  %></p>
+
+
+
+<p >Lugar de estudio/trabajo: <%= 
+if @local.nil? ;  'Sin Información';
+else @local.nombre;
+end  %></p>
+
+<p >Total Horas: <%=number_to_currency(   @asistencias.sum(:horas), :unit => "", :delimiter => ".", :precision=> 0)%></p>
+
+
+<p>Total Pagos:<%= number_to_currency(@pagos.sum(:valor), :unit => "$", :delimiter => ".", :precision=> 0) %></p>
+
+
+<p >Fono: <%=number_to_phone(@ficha.fono)%></p>
+<p >Email: <%=@ficha.email%></p>
+
+</div>
+<p><%= link_to "Editar", edit_ficha_path(@ficha)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+<INPUT id = "botonIzq" class="colorCeleste" Type="button" VALUE="Volver"  onClick="history.go(-1);return true;">
+
+
+
+
+  <table id="tableConten">
+
+
+
+
+  <td ><h1>ASISTENCIA PARCIAL </h1>
+
+
+ <%= link_to 'VER ASISTENCIA COMPLETA ', asistencia_path(@ficha)%>
+
+
+
+<table id="tableConten">   
+  
+  <th id = "botonCeleste" ><%=  "Mes Año" %></th>  
+  <th id = "botonCeleste" ><%=  "Horas Mensuales" %></th>  
+  
+  
+  <% for asistencia in @asistenciaParcial %>  
+  <tr >  
+  <td><%= Time.zone.parse(asistencia.ordered_fecha).strftime("%Y" " %B") %></td>      
+  <td><%= number_to_currency(asistencia.total_horas, :unit => "", :delimiter => ".", :precision=> 0) %></td>    
+
+  </tr>  
+  <% end %>  
+</table> 
+</table>
+
+
+
+  <table id="tableConten"><td ><h1>PAGOS PARCIALES</h1>
+<table id="tableConten">   
+   <%= link_to 'VER TODOS LOS PAGOS ', pago_path(@ficha)%>
+  <th id = "botonCeleste" ><%=  "Mes Año" %></th>  
+  <th id = "botonCeleste" ><%=  "Valor" %></th>  
+  
+  
+  <% for pago in @pagoParcial %>  
+  <tr >  
+  <td><%= Time.zone.parse(pago.ordered_fecha).strftime("%Y" " %B") %></td>      
+  <td><%= number_to_currency(pago.total_horas, :unit => "$", :delimiter => ".", :precision=> 0) %></td>    
+
+  </tr>  
+  <% end %>  
+</table> 
+
+</td></table>
+
+</div>
+
+
+
+

@@ -1,0 +1,35 @@
+<div id="full">
+
+<h1>Todos los Cargos</h1>
+
+<table id="contenPost">   
+  
+  
+  <th id = "botonCeleste" >Nombre</th>  
+  <th id = "botonCeleste" >Descripción</th>  
+  <th style="width: 110px;"></th>
+
+  
+  <% for cargo in @cargos %>  
+  <tr >      	
+    <td ><%=link_to  cargo.nombre, cargo%></td>  
+    <td ><%=link_to  cargo.descripcion, cargo%></td> 
+        <td><div id="opciones">  <%= link_to "Editar", edit_cargo_path(cargo) , id:"botonIzq"					,:class=>"colorCeleste"%>
+					
+	</div></td>  
+  </tr>  
+
+
+
+  <% end %>  
+</table>  
+  
+
+<%= link_to "Agregar Nuevo Cargo", new_cargo_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%> 
+<%= link_to "Volver a Registro", fichas_path,:id => "botonIzq",:class=>"colorCeleste"   %>
+
+</div>
+
+
+
+

@@ -24,8 +24,6 @@
 	<%= f.input :valor,:required => true,as: :integer, input_html: { maxlength: 10, min:"1"}  %>
 	<%= f.input :detalle,:placeholder => 'Ingrese Detalle del Cobro Se es Necesario', input_html: { maxlength: 150, pattern:"[A-Z a-z]{2,25}" }%>   
 	
-	<div id="input"><%= f.label "Imagen (2 mb máx, jpg,jpeg,png)" ,:id=>"small"%>    
-    <%= f.file_field :recibo %></div>
 
 
 <%= f.submit "Guardar Cambios" ,:id => "botonIzq",:class=>"colorCeleste"%> 

@@ -1,0 +1,31 @@
+<h1>Examenes</h1>
+
+<table id="contenPost">   
+  
+  
+  <th id = "botonCeleste" ><%=  "Nombre"  %></th>  
+  <th id = "botonCeleste" ><%=  "fecha" %></th>  
+  <th id = "botonCeleste" ><%=  "Detalle" %></th>  
+  <th id = "botonCeleste" ><%=  "Pagado" %></th>  
+  
+  
+  <% for examen in @examens %>  
+  <tr >      	
+
+
+    <td><%=link_to Ficha.find_by_id(examen.ficha_id).nombre ,examen_path(examen)%></td>
+    <td><%=link_to  examen.fecha , examen_path(examen)%></td>  
+    <td><%=link_to examen.detalle , examen_path(examen)%></td> 
+    <td><%=link_to examen.pagado , examen_path(examen)%></td> 
+    <td><%= link_to "Editar", edit_examen_path(examen)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+    <%=  link_to "Borrar",  examen_path(examen), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%></td>
+
+
+
+  </tr>  
+  <% end %>  
+</table>  
+  
+<%= link_to "Agregar un nuevo examen", new_examen_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%> 
+<%= link_to "Volver a Registro", fichas_path,:id => "botonIzq",:class=>"colorCeleste"   %>
+

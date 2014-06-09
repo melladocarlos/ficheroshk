@@ -18,7 +18,9 @@
       
 
     <td><div id="opciones">  <%= link_to "Editar", edit_ficha_path(ficha) , id:"botonIzq"         ,:class=>"colorCeleste"%>
-           <%=  link_to "Borrar", ficha, :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+
+      <%= button_to "Eliminar", ficha, :method => :delete, :confirm => "Perderá los datos. ¿Estas seguro?", :id => "botonIzq",:class=>"colorCeleste" %>
+
             
   </div></td>
   </tr>  

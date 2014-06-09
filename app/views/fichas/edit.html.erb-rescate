@@ -1,0 +1,60 @@
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+
+$('#ficha_rut').Rut({
+  on_error: function(){ 
+  	alert('Rut incorrecto'); 
+  },
+  format_on: 'keyup'
+});
+
+}); 
+</script>
+
+
+<div id="titulo", class="colorCeleste">Editar Ficha</div>
+<%= simple_form_for @ficha do |f| %>
+
+	<% if @ficha.errors.any? %>
+		<h2>Errores:</h2>	
+		<ul>
+			<% @ficha.errors.full_messages.each do |message| %>
+				<li><%= message %></li>
+			<% end %>
+		</ul>
+	<% end %>
+<div id="ficha">
+
+
+	<div id="input"><%= f.input :nombre,:placeholder => 'Ingrese el nombre', input_html: { maxlength: 30, pattern:"[A-Z a-z]{2,25}" }%></div>
+	<div id="input"><%= f.input :rut,:placeholder => 'Ingrese el rut', input_html: { maxlength: 12 }%></div>
+
+	<div id="input"><%= f.input :cargo_id, label: 'Tipo de Usuario', :collection => Cargo.all(:order=>'nombre'),:label_method=> :nombre, :include_blank => 'Seleccione'%></div>	
+
+	
+	<div id="input"><%= f.input :email,:placeholder => 'persona@servicio.com', input_html: { type:'email'  }%></div>
+
+	<div id="input"><%= f.input :password%></div>
+
+	<div id="input"><%= f.input :password_confirmation %></div>
+
+
+	<div id="input"><%= f.input :fono, input_html: { maxlength: 15 }%></div>
+	
+	<div id="input"><%= f.input :fechanacimiento, label: 'Fecha de Nacimiento', as: :date, start_year: Date.today.year,:use_month_numbers => true, end_year: Date.today.year-110, order: [:day,:month, :year] ,:prompt => { :day => 'Dia', :month => 'Mes', :year => 'Año' }%></div>
+	
+
+	<div id="input"><%= f.input :actividad_id, :collection => Actividad.all(:order=>'nombre'), :label_method=> :nombre, :include_blank => 'Seleccione'%></div>
+
+    <div id="input"><%= f.input :local_id, label: 'Lugar de estudio/trabajo', :collection => Local.all(:order=>'nombre'),:label_method=> :nombre, :include_blank => 'Seleccione'%></div>
+
+    <div id="input"><%= f.label "Imagen (2 mb máx, jpg,jpeg,png)" ,:id=>"small"%>    
+    <%= f.file_field :photo %></div>
+
+ <div id="input">
+<%= f.submit "Guardar Cambios" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+
+
+<%= link_to "Cancelar", fichas_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %></div>
+</div>
+<% end %>

@@ -4,16 +4,14 @@
 <h1>Todos los Pagos</h1>
 
 <table id="contenPost">   
-  <th></th>
+
   <th id = "botonCeleste" ><%= sortable "ficha_id"  %></th>  
   <th id = "botonCeleste" ><%= sortable "fecha" %></th>
   <th id = "botonCeleste" ><%= sortable "valor" %></th>
-  <th id = "botonCeleste" ><%= sortable "tipo_id" %></th>
   <th style="width: 110px;"></th>
   
   <% for pago in @pagos %>  
   <tr >  
-  <td><a  href="<%=pago.recibo.url%>"><%= image_tag pago.recibo.url ,:id=>"imagen2"%></a></td>  
 
     <td>
 
@@ -27,23 +25,13 @@ end    %>
 
     
     <td><%= number_to_currency(pago.valor, :unit => "$", :delimiter => ".", :precision=> 0) %></td> 
-<td>
 
-
-<%= 
-
-if Tipo.find_by_id(pago.tipo_id.to_i).nil? ;  
-  'Sin Información';
-else link_to Tipo.find_by_id(pago.tipo_id.to_i).nombre, Tipo.find_by_id(pago.tipo_id.to_i);
-end    
-
-%></td> 
 
 
 
 
 <td><div id="opciones"><%= link_to "Editar", edit_pago_path(pago)  ,:id => "botonIzq",:class=>"colorCeleste"%>
-    <%= link_to "Borrar",  pago_path(pago), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>  
+    <%= button_to "Borrar",  pago_path(pago), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>  
 
 
 

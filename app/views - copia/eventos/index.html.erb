@@ -1,0 +1,29 @@
+<h1>Todos los Eventos</h1>
+
+<table id="contenPost">   
+  
+  
+  <th id = "botonCeleste" ><%=  "Nombre"  %></th>  
+    <th id = "botonCeleste" ><%=  "Fecha"  %></th>  
+  <th id = "botonCeleste" ><%=  "Descripción" %></th>  
+  <th ></th> 
+  
+  <% for evento in @eventos %>  
+  <tr >      
+  
+
+    <td ><%= link_to evento.nombre, evento %></td>  
+    <td ><%= link_to evento.fecha, evento %></td>
+    <td ><%= link_to evento.descripcion, evento %></td>    
+
+    
+  <td><div id="opciones">  <%= link_to "Editar", edit_evento_path(evento) , id:"botonIzq"					,:class=>"colorCeleste"%>
+					 <%=  link_to "Borrar", evento, :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+	</div></td> 
+
+</tr>
+  <% end %>  
+</table>  
+  
+<%= link_to "Agregar Nuevo Evento", new_evento_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%> 
+<%= link_to "Volver a Registro", fichas_path,:id => "botonIzq",:class=>"colorCeleste"   %>

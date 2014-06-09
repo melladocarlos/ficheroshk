@@ -6,11 +6,22 @@ Ficheros::Application.routes.draw do
   get "log_in" => "sessions#new", :as => "log_in"
   get "sign_up" => "fichas#new", :as => "sign_up"
   root :to => "sessions#new"
-  resources :sessions    
-      
-  resources :cargos 
-  resources :fichas
-  resources :asistencias  
+  resources :sessions         
+  resources :cargos    
+  resources :fichas 
+  
+  match(
+  "asistencias/:id" => "asistencias#destroy",
+  :as => :eliminar_asistencia,
+  :via => :delete
+  )
+
+  resources :asistencias
+
+
+
+
+
   resources :locals
   resources :lugars
   resources :actividads

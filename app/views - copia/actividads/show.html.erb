@@ -1,0 +1,15 @@
+
+<div id="fullConten">
+<div id="titulo", class="colorCeleste"> Nombre De la ocupación: <%=  @actividad.nombre %></div>
+
+<div id="texto2">
+
+<p >Descripcion : </p><p><%= @actividad.descripcion%></p>
+
+<%= link_to "Editar", edit_actividad_path(@actividad)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+<%= link_to "Volver", actividads_path ,:id => "botonIzq",:class=>"colorCeleste"%>
+
+
+</div>
+</div>
+

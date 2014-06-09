@@ -1,0 +1,19 @@
+<div id="fullConten">
+
+<div id="titulo", class="colorCeleste">Nueva Participación</div>
+<div id="texto2">
+
+<%= simple_form_for @participacion, :url => participacions_path , :method => 'post' do |f| %>
+
+
+	<%= f.input :ficha_id, :collection => Ficha.all(:order=>'nombre'), :selected => :nombre,:label_method=> :nombre%>
+	<%= f.input :evento_id, :collection => Evento.all(:order=>'nombre'), :selected => :nombre,:label_method=> :nombre%>
+	<%= f.input :fecha, as: :date, start_year: Date.today.year,:use_month_numbers => true, end_year: Date.today.year-110, order: [:day,:month, :year]%>
+
+	<%= f.input :detalle,:placeholder => 'Ingrese detalle', input_html: { maxlength: 150, pattern:"[A-Z a-z]{2,25}" }%>
+
+
+<%= f.submit "Agregar Nueva Participacion" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+<%= link_to "Cancelar", participacions_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %>
+<% end %>
+</div></div>

@@ -1,0 +1,25 @@
+<div id="fullConten">
+
+<div id="titulo", class="colorCeleste">Editar Tipo Pago</div>
+<div id="texto2">
+
+
+<%= simple_form_for @tipo do |f| %>
+<% if @tipo.errors.any? %>
+	<div id="flashmsg"> 
+			
+		<ul>Errores:
+			<% @tipo.errors.full_messages.each do |message| %>
+				<li><%= message %></li>				
+			<% end %>
+		</ul></div>
+	<% end %>
+	<%= f.input :nombre,:placeholder => 'Ingrese el nombre', input_html: { maxlength: 30, pattern:"[A-Z a-z]{2,25}" }%>
+
+	<%= f.input :descripcion,as: :text %>
+
+<%= f.submit "Guardar Cambios" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+<%= link_to "Cancelar", tipos_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %>
+<% end %>
+
+</div></div>

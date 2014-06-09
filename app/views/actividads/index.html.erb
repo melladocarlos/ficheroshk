@@ -18,7 +18,9 @@
 
     
   <td><div id="opciones">  <%= link_to "Editar", edit_actividad_path(actividad) , id:"botonIzq"					,:class=>"colorCeleste"%>
-					 <%=  link_to "Borrar", actividad, :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+					 
+           <%=  button_to "Borrar", actividad, :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+
 	</div></td> 
 
 </tr>

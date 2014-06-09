@@ -26,12 +26,16 @@ $('document').ready(function() {
 <% if current_user.cargo_id == 1 ;  
       'Administrador'; %>
     <div id="tabs">
-    <ul><li><a href="<%=fichas_path%>"><span>Registros</span></a></li>
-      <li><a href="<%=asistencias_path%>"><span>Asistencias</span></a></li>    
-      <li><a href="<%=pagos_path%>"><span>Pagos</span></a></li>
-      <li><a href="<%=cargos_path%>"><span>Cargos</span></a></li>
+    <ul>
+      <li><a href="<%=fichas_path%>"><span>Registros</span></a></li>
+      <li><a href="<%=asistencias_path%>"><span>Asistencias</span></a></li>
       <li><a href="<%=actividads_path%>"><span>Actividades</span></a></li>
-      <li><a href="<%=tipos_path%>"><span>Tipos Pagos</span></a></li>
+      <li><a href="<%=eventos_path%>"><span>Eventos</span></a></li>
+      <li><a href="<%=examens_path%>"><span>Examenes</span></a></li>
+      <li><a href="<%=lugars_path%>"><span>Dojos</span></a></li>
+      <li><a href="<%=pagos_path%>"><span>Pagos</span></a></li>
+      <li><a href="<%=participacions_path%>"><span>Participaciones</span></a></li>
+      <li><a href="<%=cargos_path%>"><span>Cargos</span></a></li>
       <li><a href="<%=locals_path%>"><span>Locales</span></a></li>
       <%= form_tag fichas_path,:class=>'busqueda', :method => 'get' do %>
       <%= text_field_tag :search, params[:search],:placeholder => 'Buscar Por Nombre' %>

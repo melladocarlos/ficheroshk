@@ -10518,3 +10518,2292 @@ ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/orig
   C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
 
 
+Compiled application.js  (1ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled actividads.css  (6ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled asistencias.css  (3ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled cargos.css  (2ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled eventos.css  (2ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled examens.css  (1ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled fichas.css  (3ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled locals.css  (2ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled lugars.css  (3ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled pagos.css  (3ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled participacions.css  (3ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled posts.css  (3ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled sessions.css  (2ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled tipos.css  (2ms)  (pid 12620)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000057fcc90>
+
+Compiled users.css  (3ms)  (pid 12620)
+Compiled application.css  (205ms)  (pid 12620)
+Compiled application.js  (0ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled actividads.css  (5ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled asistencias.css  (1ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled cargos.css  (2ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled eventos.css  (1ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled examens.css  (2ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled fichas.css  (1ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled locals.css  (2ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled lugars.css  (3ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled pagos.css  (2ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled participacions.css  (45ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled posts.css  (2ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled sessions.css  (2ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled tipos.css  (2ms)  (pid 12696)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000065057e8>
+
+Compiled users.css  (2ms)  (pid 12696)
+Compiled application.css  (241ms)  (pid 12696)
+Connecting to database specified by database.yml
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 19:36:21 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (16.0ms)
+Compiled jquery.Rut.js  (0ms)  (pid 12900)
+Compiled jquery.Rut.min.js  (0ms)  (pid 12900)
+Completed 200 OK in 3282ms (Views: 3184.2ms | ActiveRecord: 31.0ms)
+Started GET "/assets/jquery.Rut.min-6b5c2bb77ff0974b3e2f36e3d600448b.js" for 127.0.0.1 at 2014-06-09 19:36:25 -0400
+Served asset /jquery.Rut.min-6b5c2bb77ff0974b3e2f36e3d600448b.js - 200 OK (0ms)
+Started GET "/assets/jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js" for 127.0.0.1 at 2014-06-09 19:36:25 -0400
+Served asset /jquery.Rut-17ead035b651525a4e5a87b8101e1bf4.js - 200 OK (1ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 19:36:25 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 19:36:25 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 19:36:30 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (49.0ms)
+Completed 200 OK in 64ms (Views: 45.0ms | ActiveRecord: 15.0ms)
+Started GET "/asistencias/new" for 127.0.0.1 at 2014-06-09 19:36:31 -0400
+Processing by AsistenciasController#new as HTML
+  Rendered asistencias/new.html.erb within layouts/application (159.0ms)
+Completed 200 OK in 168ms (Views: 165.0ms | ActiveRecord: 2.0ms)
+Started POST "/asistencias" for 127.0.0.1 at 2014-06-09 19:36:33 -0400
+Processing by AsistenciasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "asistencia"=>{"ficha_id"=>"2", "fecha(3i)"=>"9", "fecha(2i)"=>"6", "fecha(1i)"=>"2014", "horas"=>"2"}, "commit"=>"Agregar Nuevo Asistencia"}
+Redirected to http://localhost:3000/asistencias/new
+Completed 302 Found in 80ms (ActiveRecord: 76.0ms)
+Started GET "/asistencias/new" for 127.0.0.1 at 2014-06-09 19:36:33 -0400
+Processing by AsistenciasController#new as HTML
+  Rendered asistencias/new.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 19ms (Views: 17.0ms | ActiveRecord: 1.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 19:36:41 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 19ms (Views: 15.0ms | ActiveRecord: 1.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 19:36:41 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-09 19:36:42 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (69.0ms)
+Completed 200 OK in 78ms (Views: 62.0ms | ActiveRecord: 15.0ms)
+Compiled application.js  (1ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled actividads.css  (5ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled asistencias.css  (1ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled cargos.css  (2ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled eventos.css  (1ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled examens.css  (1ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled fichas.css  (2ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled locals.css  (2ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled lugars.css  (2ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled pagos.css  (3ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled participacions.css  (1ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled posts.css  (3ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled sessions.css  (3ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled tipos.css  (2ms)  (pid 12456)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000067b11e0>
+
+Compiled users.css  (3ms)  (pid 12456)
+Compiled application.css  (268ms)  (pid 12456)
+Compiled application.js  (0ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled actividads.css  (5ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled asistencias.css  (3ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled cargos.css  (3ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled eventos.css  (2ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled examens.css  (2ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled fichas.css  (3ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled locals.css  (3ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled lugars.css  (3ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled pagos.css  (1ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled participacions.css  (3ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled posts.css  (2ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled sessions.css  (3ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled tipos.css  (3ms)  (pid 10460)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000065a97d0>
+
+Compiled users.css  (1ms)  (pid 10460)
+Compiled application.css  (256ms)  (pid 10460)
+Connecting to database specified by database.yml
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 19:42:44 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 19:42:44 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (5.0ms)
+Compiled jquery.Rut.js  (0ms)  (pid 12432)
+Compiled jquery.Rut.min.js  (0ms)  (pid 12432)
+Completed 200 OK in 3191ms (Views: 3190.2ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 19:42:58 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 181ms (ActiveRecord: 23.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 19:42:58 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 32ms (Views: 22.0ms | ActiveRecord: 9.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 19:42:59 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Compiled application.js  (0ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled actividads.css  (6ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled asistencias.css  (2ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled cargos.css  (3ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled eventos.css  (3ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled examens.css  (3ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled fichas.css  (3ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled locals.css  (3ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled lugars.css  (3ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled pagos.css  (1ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled participacions.css  (2ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled posts.css  (1ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled sessions.css  (3ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled tipos.css  (3ms)  (pid 488)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000065a5130>
+
+Compiled users.css  (5ms)  (pid 488)
+Compiled application.css  (217ms)  (pid 488)
+Compiled application.js  (1ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled actividads.css  (6ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled asistencias.css  (3ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled cargos.css  (3ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled eventos.css  (1ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled examens.css  (3ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled fichas.css  (1ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled locals.css  (3ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled lugars.css  (3ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled pagos.css  (2ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled participacions.css  (47ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled posts.css  (2ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled sessions.css  (1ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled tipos.css  (2ms)  (pid 13172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000064f57f8>
+
+Compiled users.css  (3ms)  (pid 13172)
+Compiled application.css  (261ms)  (pid 13172)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-09 19:51:54 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (5.0ms)
+Compiled jquery.Rut.js  (0ms)  (pid 2112)
+Compiled jquery.Rut.min.js  (0ms)  (pid 2112)
+Completed 200 OK in 3401ms (Views: 3343.2ms | ActiveRecord: 27.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 19:51:58 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 19:52:02 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (34.0ms)
+Completed 200 OK in 48ms (Views: 38.0ms | ActiveRecord: 8.0ms)
+Started GET "/asistencias/new" for 127.0.0.1 at 2014-06-09 19:52:03 -0400
+Processing by AsistenciasController#new as HTML
+  Rendered asistencias/new.html.erb within layouts/application (146.0ms)
+Completed 200 OK in 156ms (Views: 153.0ms | ActiveRecord: 2.0ms)
+Started POST "/asistencias" for 127.0.0.1 at 2014-06-09 19:52:05 -0400
+Processing by AsistenciasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "asistencia"=>{"ficha_id"=>"2", "fecha(3i)"=>"9", "fecha(2i)"=>"6", "fecha(1i)"=>"2014", "horas"=>"2"}, "commit"=>"Agregar Nuevo Asistencia"}
+Redirected to http://localhost:3000/asistencias/new
+Completed 302 Found in 31ms (ActiveRecord: 25.0ms)
+Started GET "/asistencias/new" for 127.0.0.1 at 2014-06-09 19:52:05 -0400
+Processing by AsistenciasController#new as HTML
+  Rendered asistencias/new.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 19ms (Views: 16.0ms | ActiveRecord: 1.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 19:52:37 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 19:52:37 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Compiled application.js  (1ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled actividads.css  (5ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled asistencias.css  (2ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled cargos.css  (1ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled eventos.css  (2ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled examens.css  (3ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled fichas.css  (3ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled locals.css  (2ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled lugars.css  (3ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled pagos.css  (3ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled participacions.css  (3ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled posts.css  (3ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled sessions.css  (1ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled tipos.css  (3ms)  (pid 8484)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x00000005680330>
+
+Compiled users.css  (2ms)  (pid 8484)
+Compiled application.css  (210ms)  (pid 8484)
+Compiled application.js  (0ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled actividads.css  (5ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled asistencias.css  (1ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled cargos.css  (2ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled eventos.css  (2ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled examens.css  (3ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled fichas.css  (2ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled locals.css  (2ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled lugars.css  (2ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled pagos.css  (2ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled participacions.css  (44ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled posts.css  (2ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled sessions.css  (1ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled tipos.css  (1ms)  (pid 11580)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000064e57e0>
+
+Compiled users.css  (3ms)  (pid 11580)
+Compiled application.css  (238ms)  (pid 11580)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-09 19:58:36 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 26ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 19:58:41 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 169ms (ActiveRecord: 24.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 19:58:41 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 29ms (Views: 19.0ms | ActiveRecord: 7.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 19:58:41 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/3" for 127.0.0.1 at 2014-06-09 19:58:47 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered fichas/show.html.erb within layouts/application (150.0ms)
+Completed 500 Internal Server Error in 299ms
+
+ActionView::Template::Error (PG::UndefinedFunction: ERROR:  no existe la función datetime(date)
+LINE 1: SELECT datetime(mes_ano) as ordered_fecha, sum(horas) as tot...
+               ^
+HINT:  Ninguna función coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos.
+: SELECT datetime(mes_ano) as ordered_fecha, sum(horas) as total_horas FROM "asistencia"  WHERE "asistencia"."ficha_id" = 3 AND ("asistencia"."mes_ano" BETWEEN '2013-06-09 23:58:48.089642' AND '2014-06-09 23:58:48.089642') GROUP BY date(mes_ano)):
+    60:   <th id = "botonCeleste" ><%=  "Horas Mensuales" %></th>  
+    61:   
+    62:   
+    63:   <% for asistencia in @asistenciaParcial %>  
+    64:   <tr >  
+    65:   <td><%= Time.zone.parse(asistencia.ordered_fecha).strftime("%Y" " %B") %></td>      
+    66:   <td><%= number_to_currency(asistencia.total_horas, :unit => "", :delimiter => ".", :precision=> 0) %></td>    
+  app/views/fichas/show.html.erb:63:in `_app_views_fichas_show_html_erb___1724569649_58621080'
+
+
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-09 19:58:50 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (28.0ms)
+Completed 500 Internal Server Error in 81ms
+
+ActionView::Template::Error (PG::UndefinedFunction: ERROR:  no existe la función datetime(date)
+LINE 1: SELECT datetime(mes_ano) as ordered_fecha, sum(horas) as tot...
+               ^
+HINT:  Ninguna función coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos.
+: SELECT datetime(mes_ano) as ordered_fecha, sum(horas) as total_horas FROM "asistencia"  WHERE "asistencia"."ficha_id" = 1 AND ("asistencia"."mes_ano" BETWEEN '2013-06-09 23:58:50.911803' AND '2014-06-09 23:58:50.911803') GROUP BY date(mes_ano)):
+    60:   <th id = "botonCeleste" ><%=  "Horas Mensuales" %></th>  
+    61:   
+    62:   
+    63:   <% for asistencia in @asistenciaParcial %>  
+    64:   <tr >  
+    65:   <td><%= Time.zone.parse(asistencia.ordered_fecha).strftime("%Y" " %B") %></td>      
+    66:   <td><%= number_to_currency(asistencia.total_horas, :unit => "", :delimiter => ".", :precision=> 0) %></td>    
+  app/views/fichas/show.html.erb:63:in `_app_views_fichas_show_html_erb___1724569649_58621080'
+
+
+Connecting to database specified by database.yml
+Started GET "/fichas/1" for 127.0.0.1 at 2014-06-09 19:59:39 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered fichas/show.html.erb within layouts/application (76.0ms)
+Completed 200 OK in 237ms (Views: 65.0ms | ActiveRecord: 72.0ms)
+Started GET "/asistencias/1" for 127.0.0.1 at 2014-06-09 19:59:42 -0400
+Processing by AsistenciasController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered asistencias/show.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 17ms (Views: 9.0ms | ActiveRecord: 2.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 19:59:44 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 22ms (Views: 19.0ms | ActiveRecord: 1.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 19:59:44 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 19:59:47 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 19ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 19:59:48 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 24ms (Views: 8.0ms | ActiveRecord: 15.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 19:59:48 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 23ms (Views: 8.0ms | ActiveRecord: 14.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 19:59:50 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 2.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 19:59:50 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 8ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 19:59:51 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 1.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 19:59:52 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-09 19:59:53 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 13ms (Views: 9.0ms | ActiveRecord: 1.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 19:59:54 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 27ms (Views: 20.0ms | ActiveRecord: 5.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 19:59:55 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 16ms (Views: 12.0ms | ActiveRecord: 2.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 19:59:55 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 19:59:56 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 28ms (Views: 24.0ms | ActiveRecord: 3.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 19:59:57 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 26ms (Views: 11.0ms | ActiveRecord: 13.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-09 19:59:57 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 14ms (Views: 11.0ms | ActiveRecord: 2.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 19:59:59 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 2.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 20:00:02 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 20:00:02 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 20:00:27 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 82ms (ActiveRecord: 2.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:00:27 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (54.0ms)
+Completed 200 OK in 59ms (Views: 57.0ms | ActiveRecord: 1.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:00:27 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/2" for 127.0.0.1 at 2014-06-09 20:00:30 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"2"}
+  Rendered fichas/show.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 23ms (Views: 10.0ms | ActiveRecord: 8.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:00:30 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/3" for 127.0.0.1 at 2014-06-09 20:00:38 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered fichas/show.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 28ms (Views: 13.0ms | ActiveRecord: 6.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 20:00:42 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 20:00:42 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 20:00:45 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"jose@jose.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 80ms (ActiveRecord: 2.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:00:45 -0400
+Processing by FichasController#index as HTML
+Redirected to http://localhost:3000/fichas/3
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+Started GET "/fichas/3" for 127.0.0.1 at 2014-06-09 20:00:45 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered fichas/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 18ms (Views: 8.0ms | ActiveRecord: 6.0ms)
+Started GET "/fichas/3" for 127.0.0.1 at 2014-06-09 20:00:48 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered fichas/show.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 23ms (Views: 9.0ms | ActiveRecord: 8.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:00:50 -0400
+Processing by FichasController#index as HTML
+Redirected to http://localhost:3000/fichas/3
+Completed 302 Found in 3ms (ActiveRecord: 1.0ms)
+Started GET "/fichas/3" for 127.0.0.1 at 2014-06-09 20:00:50 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered fichas/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 18ms (Views: 8.0ms | ActiveRecord: 5.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:00:53 -0400
+Processing by FichasController#index as HTML
+Redirected to http://localhost:3000/fichas/3
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+Started GET "/fichas/3" for 127.0.0.1 at 2014-06-09 20:00:53 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered fichas/show.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 18ms (Views: 7.0ms | ActiveRecord: 6.0ms)
+Started GET "/pagos/3" for 127.0.0.1 at 2014-06-09 20:01:01 -0400
+Processing by PagosController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered pagos/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 15ms (Views: 10.0ms | ActiveRecord: 2.0ms)
+Started GET "/pagos/3" for 127.0.0.1 at 2014-06-09 20:01:04 -0400
+Processing by PagosController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered pagos/show.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 8ms (Views: 4.0ms | ActiveRecord: 1.0ms)
+Started GET "/asistencias/3" for 127.0.0.1 at 2014-06-09 20:01:05 -0400
+Processing by AsistenciasController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered asistencias/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 3.0ms | ActiveRecord: 1.0ms)
+Started GET "/fichas/3" for 127.0.0.1 at 2014-06-09 20:01:08 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered fichas/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 18ms (Views: 10.0ms | ActiveRecord: 1.0ms)
+Started GET "/pagos/3" for 127.0.0.1 at 2014-06-09 20:01:35 -0400
+Processing by PagosController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered pagos/show.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 8ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 20:01:39 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 20:01:39 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 20:01:43 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 78ms (ActiveRecord: 1.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:01:44 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 16ms (Views: 14.0ms | ActiveRecord: 1.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:01:44 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/3" for 127.0.0.1 at 2014-06-09 20:01:46 -0400
+Processing by FichasController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendered fichas/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 21ms (Views: 9.0ms | ActiveRecord: 6.0ms)
+Started GET "/fichas/3/edit" for 127.0.0.1 at 2014-06-09 20:01:48 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"3"}
+  Rendered fichas/edit.html.erb within layouts/application (164.0ms)
+Completed 200 OK in 172ms (Views: 166.0ms | ActiveRecord: 5.0ms)
+Started PUT "/fichas/3" for 127.0.0.1 at 2014-06-09 20:01:54 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "ficha"=>{"nombre"=>"Jose", "rut"=>"22.222.222-2", "cargo_id"=>"1", "email"=>"jose@jose.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"20", "fechanacimiento(2i)"=>"10", "fechanacimiento(1i)"=>"2000", "actividad_id"=>"1", "local_id"=>"1"}, "commit"=>"Guardar Cambios", "id"=>"3"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 158ms (ActiveRecord: 36.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:01:55 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 21ms (Views: 15.0ms | ActiveRecord: 2.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:01:55 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 20:01:57 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 20:01:57 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 20:02:00 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"jose@jose.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 78ms (ActiveRecord: 2.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:02:00 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 19ms (Views: 17.0ms | ActiveRecord: 2.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:02:00 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started DELETE "/fichas/3" for 127.0.0.1 at 2014-06-09 20:02:03 -0400
+Processing by FichasController#destroy as HTML
+  Parameters: {"authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "id"=>"3"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 53ms (ActiveRecord: 3.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:02:03 -0400
+Processing by FichasController#index as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 0ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 20:02:03 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 49ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 20:02:10 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"jose@jose.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 5ms (Views: 3.0ms | ActiveRecord: 1.0ms)
+Started GET "/sessionssad" for 127.0.0.1 at 2014-06-09 20:02:27 -0400
+
+ActionController::RoutingError (No route matches [GET] "/sessionssad"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/sessions" for 127.0.0.1 at 2014-06-09 20:02:34 -0400
+Processing by SessionsController#index as HTML
+  Rendered sessions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/sessions" for 127.0.0.1 at 2014-06-09 20:02:40 -0400
+Processing by SessionsController#index as HTML
+  Rendered sessions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/log_in" for 127.0.0.1 at 2014-06-09 20:02:45 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 20:02:54 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 77ms (ActiveRecord: 2.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:02:54 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 17ms (Views: 14.0ms | ActiveRecord: 1.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:02:55 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Compiled application.js  (1ms)  (pid 12172)
+Compiled java_valida.js  (0ms)  (pid 12172)
+Compiled jquery.Rut.js  (0ms)  (pid 12172)
+Compiled jquery.Rut.min.js  (3ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled actividads.css  (5ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled asistencias.css  (3ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled cargos.css  (3ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled eventos.css  (1ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled examens.css  (3ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled fichas.css  (2ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled locals.css  (2ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled lugars.css  (3ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled pagos.css  (2ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled participacions.css  (1ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled posts.css  (1ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled sessions.css  (1ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled tipos.css  (2ms)  (pid 12172)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000067a90d0>
+
+Compiled users.css  (1ms)  (pid 12172)
+Compiled application.css  (218ms)  (pid 12172)
+Compiled application.js  (0ms)  (pid 11480)
+Compiled java_valida.js  (0ms)  (pid 11480)
+Compiled jquery.Rut.js  (0ms)  (pid 11480)
+Compiled jquery.Rut.min.js  (0ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled actividads.css  (4ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled asistencias.css  (1ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled cargos.css  (3ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled eventos.css  (2ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled examens.css  (2ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled fichas.css  (1ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled locals.css  (3ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled lugars.css  (2ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled pagos.css  (3ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled participacions.css  (1ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled posts.css  (2ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled sessions.css  (4ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled tipos.css  (3ms)  (pid 11480)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x00000006571880>
+
+Compiled users.css  (2ms)  (pid 11480)
+Compiled application.css  (230ms)  (pid 11480)
+Connecting to database specified by database.yml
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:13:22 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 93ms (Views: 37.0ms | ActiveRecord: 30.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:13:22 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-09 20:13:27 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (185.0ms)
+Completed 200 OK in 190ms (Views: 177.0ms | ActiveRecord: 13.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 20:13:36 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 20:13:36 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 49ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-09 20:15:27 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 22ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 20:15:31 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 122ms (ActiveRecord: 16.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:15:31 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 28ms (Views: 18.0ms | ActiveRecord: 9.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:15:31 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-09 20:15:35 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (169.0ms)
+Completed 200 OK in 175ms (Views: 163.0ms | ActiveRecord: 12.0ms)
+Connecting to database specified by database.yml
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-09 20:16:52 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (186.0ms)
+Completed 200 OK in 287ms (Views: 192.0ms | ActiveRecord: 31.0ms)
+Connecting to database specified by database.yml
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-09 20:21:51 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (198.0ms)
+Completed 200 OK in 303ms (Views: 201.0ms | ActiveRecord: 38.0ms)
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-09 20:21:54 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 28ms (Views: 26.0ms | ActiveRecord: 2.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:21:57 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 19ms (Views: 14.0ms | ActiveRecord: 1.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:21:57 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-09 20:21:58 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 28ms (Views: 26.0ms | ActiveRecord: 2.0ms)
+Started GET "/fichas/new" for 127.0.0.1 at 2014-06-09 20:23:42 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 30ms (Views: 26.0ms | ActiveRecord: 3.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:23:48 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 15ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:23:48 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 20:23:50 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (77.0ms)
+Completed 200 OK in 88ms (Views: 78.0ms | ActiveRecord: 7.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-09 20:23:51 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 20:23:52 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 17ms (Views: 9.0ms | ActiveRecord: 6.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 20:23:53 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 16ms (Views: 8.0ms | ActiveRecord: 4.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 20:23:53 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 24ms (Views: 10.0ms | ActiveRecord: 6.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 20:23:54 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (80.0ms)
+Completed 200 OK in 93ms (Views: 80.0ms | ActiveRecord: 8.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 20:23:57 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 16ms (Views: 9.0ms | ActiveRecord: 5.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-09 20:23:58 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 2.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 20:23:59 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 14ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-09 20:24:01 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 8ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-09 20:25:56 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 10ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-09 20:25:59 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Started GET "/cargos" for 127.0.0.1 at 2014-06-09 20:26:17 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 127ms (Views: 26.0ms | ActiveRecord: 23.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-09 20:26:21 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 8ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/cargos" for 127.0.0.1 at 2014-06-09 20:26:29 -0400
+Processing by CargosController#index as HTML
+  Rendered cargos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 4.0ms | ActiveRecord: 1.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 20:26:31 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 23ms (Views: 10.0ms | ActiveRecord: 3.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 20:26:32 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 16ms (Views: 9.0ms | ActiveRecord: 4.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:26:33 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 20ms (Views: 17.0ms | ActiveRecord: 1.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:26:34 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 20:26:34 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (91.0ms)
+Completed 200 OK in 103ms (Views: 93.0ms | ActiveRecord: 6.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 20:26:35 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (29.0ms)
+Completed 200 OK in 39ms (Views: 31.0ms | ActiveRecord: 5.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-09 20:26:35 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 23ms (Views: 10.0ms | ActiveRecord: 4.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 20:26:36 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 9.0ms | ActiveRecord: 4.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 20:26:37 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 14ms (Views: 8.0ms | ActiveRecord: 4.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 20:26:37 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 68ms (Views: 11.0ms | ActiveRecord: 4.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 20:26:41 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 25ms (Views: 20.0ms | ActiveRecord: 5.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:26:41 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 13ms (Views: 11.0ms | ActiveRecord: 2.0ms)
+Started GET "/photo_attachment/2/original/art1_1_.jpg?1402265224" for 127.0.0.1 at 2014-06-09 20:26:42 -0400
+
+ActionController::RoutingError (No route matches [GET] "/photo_attachment/2/original/art1_1_.jpg"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Started GET "/fichas/2/edit" for 127.0.0.1 at 2014-06-09 20:28:40 -0400
+Processing by FichasController#edit as HTML
+  Parameters: {"id"=>"2"}
+  Rendered fichas/edit.html.erb within layouts/application (91.0ms)
+Completed 200 OK in 109ms (Views: 95.0ms | ActiveRecord: 4.0ms)
+Started PUT "/fichas/2" for 127.0.0.1 at 2014-06-09 20:28:50 -0400
+Processing by FichasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "ficha"=>{"nombre"=>"Braulio Mellado", "rut"=>"11.111.111-2", "cargo_id"=>"2", "email"=>"km_cob_316@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "fono"=>"", "fechanacimiento(3i)"=>"25", "fechanacimiento(2i)"=>"12", "fechanacimiento(1i)"=>"1977", "actividad_id"=>"1", "local_id"=>"1", "photo"=>#<ActionDispatch::Http::UploadedFile:0x000000057469e0 @original_filename="art1[1].jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ficha[photo]\"; filename=\"art1[1].jpg\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:C:/Users/ADMINI~1/AppData/Local/Temp/RackMultipart20140609-14788-1jfrtn5>>}, "commit"=>"Guardar Cambios", "id"=>"2"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 214ms (ActiveRecord: 77.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:28:50 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 14ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:28:58 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 20:28:59 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 23ms (Views: 20.0ms | ActiveRecord: 1.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-09 20:29:00 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 8ms (Views: 5.0ms | ActiveRecord: 2.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 20:29:00 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 20:29:01 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 20:29:01 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 1.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 20:29:02 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 9ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 20:29:03 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 2.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 20:29:04 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 26ms (Views: 22.0ms | ActiveRecord: 2.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 20:29:15 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 11ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 20:29:16 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 20:29:17 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 8ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 20:29:18 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 2.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 20:29:19 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 26ms (Views: 22.0ms | ActiveRecord: 3.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 20:29:21 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 1.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 20:29:23 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 20:29:24 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 1.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-09 20:29:25 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 20:29:26 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 24ms (Views: 21.0ms | ActiveRecord: 2.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:29:33 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 15ms (Views: 12.0ms | ActiveRecord: 2.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 20:30:06 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 28ms (Views: 23.0ms | ActiveRecord: 3.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-09 20:30:07 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 8ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 20:30:07 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 2.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 20:30:08 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 20:30:09 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 20:30:09 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 1.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 20:30:11 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 10ms (Views: 7.0ms | ActiveRecord: 2.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 20:30:11 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 2.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 20:30:12 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 26ms (Views: 21.0ms | ActiveRecord: 4.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 20:30:12 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 1.0ms)
+Compiled application.js  (0ms)  (pid 14708)
+Compiled java_valida.js  (0ms)  (pid 14708)
+Compiled jquery.Rut.js  (0ms)  (pid 14708)
+Compiled jquery.Rut.min.js  (0ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled actividads.css  (6ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled asistencias.css  (1ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled cargos.css  (3ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled eventos.css  (1ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled examens.css  (2ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled fichas.css  (3ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled locals.css  (3ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled lugars.css  (1ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled pagos.css  (3ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled participacions.css  (2ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled posts.css  (3ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled sessions.css  (3ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled tipos.css  (2ms)  (pid 14708)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000068bce90>
+
+Compiled users.css  (3ms)  (pid 14708)
+Compiled application.css  (219ms)  (pid 14708)
+Compiled application.js  (0ms)  (pid 15808)
+Compiled java_valida.js  (0ms)  (pid 15808)
+Compiled jquery.Rut.js  (0ms)  (pid 15808)
+Compiled jquery.Rut.min.js  (0ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled actividads.css  (5ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled asistencias.css  (1ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled cargos.css  (3ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled eventos.css  (2ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled examens.css  (3ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled fichas.css  (3ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled locals.css  (2ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled lugars.css  (2ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled pagos.css  (3ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled participacions.css  (3ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled posts.css  (3ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled sessions.css  (2ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled tipos.css  (2ms)  (pid 15808)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000066857d0>
+
+Compiled users.css  (3ms)  (pid 15808)
+Compiled application.css  (213ms)  (pid 15808)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Started GET "/fichas?direction=desc&sort=nombre" for 127.0.0.1 at 2014-06-09 22:07:33 -0400
+Processing by FichasController#index as HTML
+  Parameters: {"direction"=>"desc", "sort"=>"nombre"}
+  Rendered public/404.html (4.0ms)
+Completed 404 Not Found in 108ms (Views: 19.0ms | ActiveRecord: 62.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:07:36 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:07:37 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 1.0ms | ActiveRecord: 1.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:07:38 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 1.0ms | ActiveRecord: 1.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:07:47 -0400
+Processing by SessionsController#new as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 2.0ms | ActiveRecord: 1.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 22:07:57 -0400
+Processing by FichasController#index as HTML
+  Rendered public/404.html (0.0ms)
+Completed 404 Not Found in 3ms (Views: 1.0ms | ActiveRecord: 1.0ms)
+Started GET "/login" for 127.0.0.1 at 2014-06-09 22:08:08 -0400
+
+ActionController::RoutingError (No route matches [GET] "/login"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  rack-cache (1.2) lib/rack/cache/context.rb:136:in `forward'
+  rack-cache (1.2) lib/rack/cache/context.rb:245:in `fetch'
+  rack-cache (1.2) lib/rack/cache/context.rb:185:in `lookup'
+  rack-cache (1.2) lib/rack/cache/context.rb:66:in `call!'
+  rack-cache (1.2) lib/rack/cache/context.rb:51:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200-x64/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+Compiled application.js  (0ms)  (pid 15680)
+Compiled java_valida.js  (1ms)  (pid 15680)
+Compiled jquery.Rut.js  (0ms)  (pid 15680)
+Compiled jquery.Rut.min.js  (0ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled actividads.css  (6ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled asistencias.css  (1ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled cargos.css  (1ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled eventos.css  (2ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled examens.css  (2ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled fichas.css  (3ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled locals.css  (2ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled lugars.css  (2ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled pagos.css  (2ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled participacions.css  (2ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled posts.css  (2ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled sessions.css  (2ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled tipos.css  (3ms)  (pid 15680)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000065b4db0>
+
+Compiled users.css  (3ms)  (pid 15680)
+Compiled application.css  (246ms)  (pid 15680)
+Compiled application.js  (0ms)  (pid 16016)
+Compiled java_valida.js  (0ms)  (pid 16016)
+Compiled jquery.Rut.js  (2ms)  (pid 16016)
+Compiled jquery.Rut.min.js  (0ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled actividads.css  (7ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled asistencias.css  (2ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled cargos.css  (3ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled eventos.css  (3ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled examens.css  (4ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled fichas.css  (3ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled locals.css  (3ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled lugars.css  (7ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled pagos.css  (2ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled participacions.css  (4ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled posts.css  (25ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled sessions.css  (13ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled tipos.css  (4ms)  (pid 16016)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000067ad748>
+
+Compiled users.css  (4ms)  (pid 16016)
+Compiled application.css  (533ms)  (pid 16016)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:14:41 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 31ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 22:14:47 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qzJVQ/M2QzCjHw0oKW8OMOrPRPGWhd1Vcb/UyuJ2xbA=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 31ms (Views: 3.0ms | ActiveRecord: 21.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 22:14:50 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qzJVQ/M2QzCjHw0oKW8OMOrPRPGWhd1Vcb/UyuJ2xbA=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 1.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-09 22:14:52 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (166.0ms)
+Completed 200 OK in 194ms (Views: 161.0ms | ActiveRecord: 10.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-09 22:15:47 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (85.0ms)
+Completed 200 OK in 87ms (Views: 80.0ms | ActiveRecord: 6.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:15:49 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 22:15:53 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qzJVQ/M2QzCjHw0oKW8OMOrPRPGWhd1Vcb/UyuJ2xbA=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 83ms (ActiveRecord: 4.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 22:15:53 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 34ms (Views: 22.0ms | ActiveRecord: 9.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 22:16:02 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 14ms (Views: 10.0ms | ActiveRecord: 1.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 22:16:03 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 23ms (Views: 10.0ms | ActiveRecord: 11.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 22:16:04 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (37.0ms)
+Completed 200 OK in 50ms (Views: 38.0ms | ActiveRecord: 8.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 22:16:04 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 25ms (Views: 12.0ms | ActiveRecord: 6.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 22:16:05 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 18ms (Views: 11.0ms | ActiveRecord: 5.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 22:16:06 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 22ms (Views: 11.0ms | ActiveRecord: 7.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-09 22:16:06 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 14ms (Views: 11.0ms | ActiveRecord: 2.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 22:16:07 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (31.0ms)
+Completed 200 OK in 43ms (Views: 32.0ms | ActiveRecord: 7.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 22:16:08 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 16ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 22:16:09 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:16:09 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:19:37 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 8ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 22:19:41 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 21ms (Views: 18.0ms | ActiveRecord: 1.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 22:19:43 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 34ms (Views: 30.0ms | ActiveRecord: 2.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-09 22:19:44 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 9ms (Views: 6.0ms | ActiveRecord: 1.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 22:19:45 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 10ms (Views: 6.0ms | ActiveRecord: 2.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 22:19:46 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 2.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 22:19:46 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 1.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 22:19:47 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 10ms (Views: 7.0ms | ActiveRecord: 1.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 22:19:48 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 2.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 22:19:49 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (28.0ms)
+Completed 200 OK in 37ms (Views: 29.0ms | ActiveRecord: 5.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 22:19:50 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 22ms (Views: 18.0ms | ActiveRecord: 2.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 22:19:52 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:19:52 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 5ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 22:20:08 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 1.0ms)
+Started GET "/sign_up" for 127.0.0.1 at 2014-06-09 22:20:09 -0400
+Processing by FichasController#new as HTML
+  Rendered fichas/new.html.erb within layouts/application (52.0ms)
+Completed 200 OK in 58ms (Views: 48.0ms | ActiveRecord: 10.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 22:20:11 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:20:11 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Compiled application.js  (0ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled actividads.css  (6ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled asistencias.css  (3ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled cargos.css  (2ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled eventos.css  (3ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled examens.css  (2ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled fichas.css  (5ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled locals.css  (2ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled lugars.css  (2ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled pagos.css  (3ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled participacions.css  (1ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled posts.css  (2ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled sessions.css  (3ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled tipos.css  (3ms)  (pid 17848)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x00000006698dd0>
+
+Compiled users.css  (3ms)  (pid 17848)
+Compiled application.css  (213ms)  (pid 17848)
+Compiled application.js  (0ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/actividads.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled actividads.css  (5ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/asistencias.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled asistencias.css  (3ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/cargos.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled cargos.css  (3ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/eventos.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled eventos.css  (3ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/examens.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled examens.css  (2ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/fichas.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled fichas.css  (2ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/locals.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled locals.css  (3ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/lugars.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled lugars.css  (3ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/pagos.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled pagos.css  (2ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/participacions.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled participacions.css  (47ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/posts.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled posts.css  (2ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/sessions.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled sessions.css  (3ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/tipos.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled tipos.css  (3ms)  (pid 17348)
+Warning. Error encountered while saving cache C:/rails_code/ficheroshk/tmp/cache/sass/5c1a2c86ed02cebd03ee580f87476a652a329c83/users.css.scssc: can't dump anonymous class #<Class:0x000000065a1828>
+
+Compiled users.css  (3ms)  (pid 17348)
+Compiled application.css  (253ms)  (pid 17348)
+Connecting to database specified by database.yml
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:24:54 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 24ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+Started POST "/sessions" for 127.0.0.1 at 2014-06-09 22:25:01 -0400
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/FTEVKmq7leDiOCjiZVc7p2acQmNn7NYuPf3P6dWZ6g=", "email"=>"carlos_bkr@hotmail.com", "password"=>"[FILTERED]", "commit"=>"Iniciar"}
+Redirected to http://localhost:3000/fichas
+Completed 302 Found in 186ms (ActiveRecord: 71.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 22:25:01 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 30ms (Views: 20.0ms | ActiveRecord: 7.0ms)
+Started GET "/fichas" for 127.0.0.1 at 2014-06-09 22:25:12 -0400
+Processing by FichasController#index as HTML
+  Rendered fichas/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 17ms (Views: 14.0ms | ActiveRecord: 1.0ms)
+Started GET "/asistencias" for 127.0.0.1 at 2014-06-09 22:25:13 -0400
+Processing by AsistenciasController#index as HTML
+  Rendered asistencias/index.html.erb within layouts/application (80.0ms)
+Completed 200 OK in 94ms (Views: 80.0ms | ActiveRecord: 10.0ms)
+Started GET "/actividads" for 127.0.0.1 at 2014-06-09 22:25:15 -0400
+Processing by ActividadsController#index as HTML
+  Rendered actividads/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 27ms (Views: 10.0ms | ActiveRecord: 6.0ms)
+Started GET "/eventos" for 127.0.0.1 at 2014-06-09 22:25:16 -0400
+Processing by EventosController#index as HTML
+  Rendered eventos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 16ms (Views: 9.0ms | ActiveRecord: 6.0ms)
+Started GET "/examens" for 127.0.0.1 at 2014-06-09 22:25:16 -0400
+Processing by ExamensController#index as HTML
+  Rendered examens/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 17ms (Views: 10.0ms | ActiveRecord: 4.0ms)
+Started GET "/lugars" for 127.0.0.1 at 2014-06-09 22:25:17 -0400
+Processing by LugarsController#index as HTML
+  Rendered lugars/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 27ms (Views: 11.0ms | ActiveRecord: 6.0ms)
+Started GET "/locals" for 127.0.0.1 at 2014-06-09 22:25:17 -0400
+Processing by LocalsController#index as HTML
+  Rendered locals/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 26ms (Views: 10.0ms | ActiveRecord: 8.0ms)
+Started GET "/participacions" for 127.0.0.1 at 2014-06-09 22:25:18 -0400
+Processing by ParticipacionsController#index as HTML
+  Rendered participacions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 16ms (Views: 9.0ms | ActiveRecord: 5.0ms)
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 22:25:18 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (81.0ms)
+Completed 200 OK in 92ms (Views: 81.0ms | ActiveRecord: 9.0ms)

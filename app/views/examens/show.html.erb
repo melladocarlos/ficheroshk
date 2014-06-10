@@ -1,16 +1,40 @@
-
-<div id="fullConten">
-<div id="titulo", class="colorCeleste"> Examen de :<%= @ficha.nombre %></div>
-
-<div id="texto2">
-<p >Fecha : <%= @examen.fecha%></p>
-<p >Pagado : <%= @examen.pagado%></p>
-<p >Descripcion : <%= @examen.detalle%></p>
+<div id="full">
+<h1>Examen de :<%= @ficha.nombre %></h1>
 
 
-<%= link_to "Editar", edit_examen_path(@examen)  ,:id => "botonIzq",:class=>"colorCeleste"%>
-<%= link_to "Volver", examens_path ,:id => "botonIzq",:class=>"colorCeleste"%>
+<table id="contenPost">   
+  
+  <th id = "botonCeleste" style="width: 110px;"><%=  "Fecha" %></th>  
+  <th id = "botonCeleste" ><%=  "Detalle" %></th> 
+  <th id = "botonCeleste" style="width: 110px;"><%=  "Pagado" %></th>   
+  <th style="width: 110px;"></th>
+  
+  
+  <% for examen in @examens %>  
+  <tr >      	
 
+    <td ><%=  examen.fecha%></td>  
+    <td><%= examen.detalle %></td> 
+    <td><%= examen.pagado %></td> 
+    <td><div id="opciones">  
+    
+<%= link_to "Editar", edit_examen_path(examen)  ,:id => "botonIzq",:class=>"colorCeleste"%>
 
+  <% if @current_user.cargo_id==1 %>
+    <%=  link_to "Borrar",  examen_path(examen), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+  <% else %>   
+  <% end %>
+
+    </div>  </td> 
+
+  </tr>  
+  <% end %>  
+</table>  
+  
+<%= link_to "Agregar nueva examen", new_examen_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%>
+<INPUT id = "botonIzq" class="colorCeleste" Type="button" VALUE="Volver"  onClick="history.go(-1);return true;">
+</INPUT>
 </div>
-</div>
+
+
+

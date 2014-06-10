@@ -4,8 +4,21 @@ class ExamensController < ApplicationController
   end  
 
   def show
-    @examen = Examen.find(params[:id])
-     @ficha = Ficha.find_by_id(@examen.ficha_id)
+    if current_user
+      if current_user.cargo_id == 2
+        @examens = Examen.where(ficha_id: current_user)   
+        @ficha = Ficha.find(current_user)    
+      else
+        @examens = Examen.where(ficha_id: params[:id])
+        @ficha = Ficha.find(params[:id])
+      end
+    @examens = @examens.all(:order => "fecha DESC")
+
+    /@examen = Examen.find(params[:id])/
+        else
+      redirect_to root_path, :notice => "Debe iniciar sesión."
+    end
+
   end
   
   def new

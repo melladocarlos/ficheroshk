@@ -1,3 +1,5 @@
+<div id="full">
+
 <h1>Lugares de Entrenamiento</h1>
 
 <table id="contenPost">   
@@ -5,17 +7,19 @@
   
   <th id = "botonCeleste" ><%=  "Nombre"  %></th>  
   <th id = "botonCeleste" ><%=  "Dirección" %></th>  
-  <th ></th> 
+  <th style="width: 110px;"></th> 
   
   <% for lugar in @lugars %>  
   <tr >      	
     <td ><%= link_to lugar.nombre ,lugar%></td>  
     <td ><%= link_to lugar.ubicacion ,lugar%></td>  
-<td><%= link_to "Editar", edit_lugar_path(lugar)  ,:id => "botonIzq",:class=>"colorCeleste"%>
+<td><div id="opciones"><%= link_to "Editar", edit_lugar_path(lugar)  ,:id => "botonIzq",:class=>"colorCeleste"%>
     <%=  button_to "Borrar",  lugar_path(lugar), :confirm => "Perderá los datos. ¿Estas seguro?", :method => :delete ,:id => "botonIzq" ,:class=>"colorCeleste"%></td>
-  </tr>  
+  </div></td>  
   <% end %>  
 </table>  
   
 <%= link_to "Agregar Nuevo lugar", new_lugar_path  ,:id => "botonIzq" ,:class=>"colorCeleste"%> 
 <%= link_to "Volver a Registro", fichas_path,:id => "botonIzq",:class=>"colorCeleste"   %>
+
+</div>

@@ -1,15 +1,12 @@
 <div id="full">
 
 <h1>Todos los Cargos</h1>
-
 <table id="contenPost">   
-  
   
   <th id = "botonCeleste" >Nombre</th>  
   <th id = "botonCeleste" >Descripción</th>  
   <th style="width: 110px;"></th>
-
-  
+ 
   <% for cargo in @cargos %>  
   <tr >      	
     <td ><%=link_to  cargo.nombre, cargo%></td>  
@@ -18,9 +15,6 @@
 					
 	</div></td>  
   </tr>  
-
-
-
   <% end %>  
 </table>  
   

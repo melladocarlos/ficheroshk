@@ -1,6 +1,6 @@
 
 
-<div id="contenPost">
+<div id="fullConten">
 
 <div id="titulo", class="colorCeleste">Editar Asistencia</div>
 
@@ -16,9 +16,12 @@
 			<% end %>
 		</ul></div>
 	<% end %>
-
+<div id="texto2">
 	<% if current_user.cargo_id == 1 %>
-		<%= f.input :ficha_id, :collection => Ficha.all(:order=>'nombre'), :selected => :nombre,:label_method=> :nombre%>			
+		<%= f.input :ficha_id, :collection => Ficha.all(:order=>'nombre'),:label_method=> :nombre, :include_blank => 'Seleccione'%>	
+
+
+		
 
 	<% else %>			
 	<% end %>
@@ -28,6 +31,7 @@
 	<%= f.input :horas,:required => true,as: :integer, input_html: { maxlength: 10, min:"1",value:"2"}  %>
     
 
+</div>
 
 <%= f.submit "Guardar Cambios" ,:id => "botonIzq",:class=>"colorCeleste"%> 
 <%= link_to "Cancelar", asistencias_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %>

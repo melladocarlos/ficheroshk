@@ -72,7 +72,7 @@ end  %></p>
 
 
 
-  <table id="tableConten"><td ><h1>PAGOS PARCIALES</h1>
+<table id="tableConten"><td ><h1>PAGOS PARCIALES</h1>
 <table id="tableConten">   
    <%= link_to 'VER TODOS LOS PAGOS ', pago_path(@ficha)%>
   <th id = "botonCeleste" ><%=  "Mes Año" %></th>  
@@ -84,6 +84,47 @@ end  %></p>
   <td><%= Time.zone.parse(pago.ordered_fecha).strftime("%Y" " %B") %></td>      
   <td><%= number_to_currency(pago.total_horas, :unit => "$", :delimiter => ".", :precision=> 0) %></td>    
 
+  </tr>  
+  <% end %>  
+</table> 
+</td></table>
+
+<table id="tableConten"><td ><h1>PARTICIPACIONES RECIENTES</h1>
+<table id="tableConten">   
+
+
+  <%= link_to 'VER TODAS LAS PARTICIPACIONES ', participacion_path(@ficha)%>
+  <th id = "botonCeleste" ><%=  "Nombre" %></th>
+  <th id = "botonCeleste" ><%=  "Fecha" %></th>  
+  <th id = "botonCeleste" ><%=  "Detalle" %></th>  
+  
+  
+  <% for participacion in @participacionParcial %>  
+  <tr >  
+  <td ><%=  Evento.find_by_id(participacion.evento_id).nombre%></td>
+  <td><%= participacion.fecha %></td>      
+  <td><%= participacion.detalle %></td>   
+  </tr>  
+  <% end %>  
+</table> 
+
+</td></table>
+
+<table id="tableConten"><td ><h1>EXAMENES RECIENTES</h1>
+<table id="tableConten">   
+
+
+  <%= link_to 'VER TODOS LOS EXAMENES ', examen_path(@ficha)%>
+
+  <th id = "botonCeleste" ><%=  "Fecha" %></th>  
+  <th id = "botonCeleste" ><%=  "Detalle" %></th>  
+  <th id = "botonCeleste" ><%=  "Pagado" %></th>
+  
+  <% for examen in @examenParcial %>  
+  <tr >  
+  <td><%= examen.fecha %></td>      
+  <td><%= examen.detalle %></td>
+  <td ><%= examen.pagado%></td>   
   </tr>  
   <% end %>  
 </table> 

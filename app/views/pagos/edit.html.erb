@@ -14,7 +14,7 @@
 	<% end %>
 	
 <% if current_user.cargo_id == 1 %>
-	<%= f.input :ficha_id, :collection => Ficha.all(:order=>'nombre'), :selected => :nombre,:label_method=> :nombre%>			
+	<%= f.input :ficha_id, :collection => Ficha.all(:order=>'nombre'),:label_method=> :nombre, :include_blank => 'Seleccione'%>			
 
 <% else %>			
 <% end %>

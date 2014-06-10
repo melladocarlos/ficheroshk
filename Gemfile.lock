@@ -130,13 +130,13 @@ PLATFORMS
 
 DEPENDENCIES
   bcrypt-ruby
-  coffee-rails (~> 3.2.1)
+  coffee-rails (~> 3.2.2)
   jquery-rails
   paperclip (~> 3.5.3)
   pg
   rails (= 3.2.13)
   rake (~> 10.2.2)
-  sass-rails (~> 3.2.3)
+  sass-rails (~> 3.2.4)
   simple_form
   sqlite3
   taps

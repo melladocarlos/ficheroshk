@@ -1,19 +1,16 @@
 <div id="fullConten">
 
-<div id="titulo", class="colorCeleste">Nuevo Examen</div>
+<div id="titulo", class="colorCeleste">Editar Examen</div>
 <div id="texto2">
 <%= simple_form_for @examen, :url => examen_path(@examen) , :method => 'put' do |f| %>
-	<%= f.input :ficha_id, :collection => Ficha.all(:order=>'nombre'), :selected => :nombre,:label_method=> :nombre%>	
+	<%= f.input :ficha_id, label: 'Nombre',:collection => Ficha.all(:order=>'nombre'),:label_method=> :nombre, :include_blank => 'Seleccione'%>	
+
 	<%= f.input :fecha, as: :date, start_year: Date.today.year+1,:use_month_numbers => true, end_year: Date.today.year-110, order: [:day,:month, :year]%>
 	<label>Pagado :</label> 
 	<%= f.select :pagado, [ 'Si', 'No']%>
 	<%= f.input :detalle,:placeholder => 'Ingrese un detalle, grado u otro dato relevante.', input_html: { maxlength: 150, pattern:"[A-Z a-z]{2,25}" }%>
-    
-	
 
-
-
-<%= f.submit "Agregar Nuevo Examen" ,:id => "botonIzq",:class=>"colorCeleste"%> 
+<%= f.submit "Guardar Cambios" ,:id => "botonIzq",:class=>"colorCeleste"%> 
 <%= link_to "Cancelar", examens_path , :confirm => "¿Volver?",:id => "botonIzq",:class=>"colorCeleste"   %>
 <% end %>
 </div></div>

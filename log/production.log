@@ -12807,3 +12807,16 @@ Started GET "/pagos" for 127.0.0.1 at 2014-06-09 22:25:18 -0400
 Processing by PagosController#index as HTML
   Rendered pagos/index.html.erb within layouts/application (81.0ms)
 Completed 200 OK in 92ms (Views: 81.0ms | ActiveRecord: 9.0ms)
+Connecting to database specified by database.yml
+Started GET "/pagos" for 127.0.0.1 at 2014-06-09 22:48:05 -0400
+Processing by PagosController#index as HTML
+  Rendered pagos/index.html.erb within layouts/application (73.0ms)
+Completed 200 OK in 159ms (Views: 94.0ms | ActiveRecord: 33.0ms)
+Started GET "/log_out" for 127.0.0.1 at 2014-06-09 22:48:08 -0400
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+Started GET "/" for 127.0.0.1 at 2014-06-09 22:48:08 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
